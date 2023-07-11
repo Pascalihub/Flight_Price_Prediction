@@ -3,7 +3,7 @@ from src.flightprice.components.data_ingestion import DataIngestion
 from src.flightprice.logger import logging
 
 
-class DataIngestionIngestionPipeline:
+class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
 
