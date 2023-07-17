@@ -20,6 +20,7 @@ six==1.14.0
 virtualenv==20.0.7
 Werkzeug==1.0.1
 wincertstore==0.2
+xgboost
 dill
 python-box==6.0.2
 ensure==1.0.2

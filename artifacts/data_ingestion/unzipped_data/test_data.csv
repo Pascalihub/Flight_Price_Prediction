@@ -1,0 +1,2138 @@
+Airline,Source,Destination,Route,Total_Stops,Additional_Info,Price,Journey_day,Journey_month,Dep_hour,Dep_min,Arrival_hour,Arrival_min,Duration_hours,Duration_mins
+Multiple carriers,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,16655,21,5,15,5,1,30,10,25
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,4959,3,6,10,35,19,35,9,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9187,9,5,20,20,9,5,12,45
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,24,5,14,45,17,5,2,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,22,50,4,25,5,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10529,6,5,7,30,19,0,11,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,27,5,10,0,19,0,9,0
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,6,4,11,10,14,5,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,6,30,19,50,13,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,21,5,8,0,19,0,11,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,15,5,4,0,6,50,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8371,27,3,6,0,19,15,13,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,14815,6,3,14,5,8,15,18,10
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,6,4,22,20,0,40,2,20
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No info,5126,9,3,5,45,8,35,2,50
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,6,5,19,5,20,35,1,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,15,4,21,25,0,5,2,40
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6171,15,4,5,5,16,10,11,5
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15809,6,3,7,0,19,15,12,15
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8452,1,4,7,10,20,20,13,10
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,2175,1,6,13,15,14,45,1,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,1,6,16,55,19,45,2,50
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,7608,24,3,12,0,14,40,2,40
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5613,24,4,17,0,19,35,2,35
+Jet Airways,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,In-flight meal not included,15812,1,6,11,40,19,0,7,20
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5406,18,3,14,30,17,35,3,5
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,24,5,15,0,16,25,1,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,3,6,19,30,4,25,8,55
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,27,6,10,20,11,50,1,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,12,6,7,5,8,30,1,25
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,24,4,0,30,3,25,2,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14533,18,5,9,0,19,15,10,15
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No info,4812,27,6,8,45,13,15,4,30
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9027,3,3,6,40,16,10,9,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,3,6,8,30,11,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13542,21,3,11,30,1,35,14,5
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9922,9,6,17,0,10,45,17,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13044,12,6,16,30,16,20,23,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7757,6,5,21,10,10,5,12,55
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No check-in baggage included,4760,9,5,8,45,13,15,4,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,9,4,22,20,0,40,2,20
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,27,4,23,55,2,45,2,50
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,14330,12,5,16,45,12,30,19,45
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No info,6860,3,3,20,30,23,20,2,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,7,0,5,5,22,5
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,12,5,20,55,23,40,2,45
+SpiceJet,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,5975,18,5,17,55,22,50,4,55
+IndiGo,Banglore,New Delhi,BLR → IDR → DEL,1 stop,No info,7166,21,3,13,40,18,35,4,55
+IndiGo,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,22153,1,3,19,35,0,35,5,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8849,1,4,21,10,8,15,11,5
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,3,6,13,15,22,30,9,15
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,15,6,14,35,12,35,22,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,6,5,16,30,4,40,12,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7574,27,3,4,45,19,15,14,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17057,3,3,13,55,21,0,7,5
+IndiGo,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,8146,9,3,6,40,21,20,14,40
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,7591,3,3,6,10,8,55,2,45
+Jet Airways,Kolkata,Banglore,CCU → GAU → BLR,1 stop,In-flight meal not included,6287,24,5,10,20,17,35,7,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,2,15,19,0,16,45
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,6128,27,3,13,5,21,20,8,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,21,5,20,55,19,0,22,5
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,9134,15,3,8,0,13,15,5,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,1,6,13,0,15,50,2,50
+Jet Airways,Banglore,New Delhi,BLR → DEL,non-stop,No info,7229,24,3,19,55,22,35,2,40
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,16736,6,3,7,0,18,25,11,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,9,0,12,35,27,35
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7952,6,6,9,45,9,25,23,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6017,27,3,2,15,4,25,26,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,14053,9,3,15,5,4,25,13,20
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,10824,15,6,9,35,12,35,27,0
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5613,12,4,17,0,19,35,2,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4990,12,4,18,25,21,20,2,55
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,18,4,17,0,19,45,2,45
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,15,5,9,0,11,25,2,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12537,27,3,7,5,13,20,6,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,18,6,6,0,8,45,2,45
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No check-in baggage included,4273,24,3,5,45,8,35,2,50
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,8620,9,3,7,5,21,20,14,15
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13307,15,5,18,45,19,15,24,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,9,3,8,0,9,30,25,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,5621,12,4,21,10,0,5,2,55
+SpiceJet,Kolkata,Banglore,CCU → IXB → BLR,1 stop,No info,12287,24,3,11,15,18,15,7,0
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,15,6,9,40,12,35,26,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9922,12,5,17,0,10,45,17,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5177,3,4,2,15,12,35,10,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7354,6,6,10,35,19,15,8,40
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,21,5,9,45,12,0,2,15
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,27,6,13,25,19,0,29,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14939,9,6,20,0,8,15,12,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,27,5,18,15,1,30,7,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,24,4,1,30,4,15,2,45
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6513,12,6,7,10,22,30,15,20
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,10741,9,3,17,0,19,45,2,45
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,22,55,9,30,10,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,15,5,20,0,22,50,2,50
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,6,6,9,0,19,15,10,15
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4050,9,6,7,5,8,30,1,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,18,15,19,0,24,45
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,1,6,14,45,17,5,2,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,1,5,6,30,16,20,9,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,1,5,2,55,4,20,1,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,6,21,10,9,20,12,10
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7893,1,4,10,0,23,15,13,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,13,0,12,35,23,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,7,0,12,25,5,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,15,5,21,25,0,5,2,40
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,4777,24,3,10,10,13,0,2,50
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6206,9,6,17,10,1,30,8,20
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5054,24,6,20,25,1,30,5,5
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,9,5,23,5,4,25,29,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,16,30,18,15,25,45
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3175,1,6,2,35,4,5,1,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,27,5,23,5,19,0,19,55
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7191,18,5,16,0,1,30,9,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13677,9,3,6,0,21,0,15,0
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,11491,15,5,19,45,19,15,23,30
+Jet Airways,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,In-flight meal not included,15812,6,6,11,40,19,0,7,20
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3850,6,3,6,55,9,35,2,40
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,11228,18,5,5,0,7,40,26,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,18,5,21,10,10,5,12,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,1,5,9,35,23,35,14,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,24,4,6,5,8,50,2,45
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10027,24,5,17,0,9,5,16,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,7268,27,6,11,40,19,15,7,35
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4508,6,6,10,20,12,55,2,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5198,18,5,11,10,14,5,2,55
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4880,12,5,20,45,23,20,2,35
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,4886,3,4,11,0,14,15,3,15
+IndiGo,Delhi,Cochin,DEL → LKO → COK,1 stop,No info,5775,24,6,21,50,3,35,5,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,1,5,7,10,10,10,3,0
+Air India,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,5626,9,3,6,50,8,50,26,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7530,3,6,12,50,1,30,12,40
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,15,5,9,0,19,15,10,15
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10203,1,5,10,0,23,15,13,15
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,9,6,21,0,19,15,22,15
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13310,24,3,17,0,9,10,16,10
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,7,0,15,15,8,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13759,24,3,8,25,16,20,7,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,15,5,14,5,23,35,9,30
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,7673,3,3,21,5,0,20,3,15
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10231,12,6,5,0,7,40,26,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,21,5,6,55,9,30,2,35
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6741,9,3,14,55,17,50,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,5,14,5,22,35,8,30
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,18,4,11,10,13,55,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,18,5,8,0,19,0,11,0
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,24,5,5,45,7,15,1,30
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,3717,18,5,19,20,23,45,4,25
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,15,4,6,50,16,10,9,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,14,0,4,25,14,25
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,9,6,18,55,22,0,3,5
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,15,5,7,5,16,10,9,5
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,27,6,6,25,7,55,1,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,27,4,15,15,18,10,2,55
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,18,6,17,45,20,5,2,20
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,9,6,9,35,9,45,24,10
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,7608,3,3,21,10,0,5,2,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,5,9,35,12,20,2,45
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5430,24,4,10,35,19,35,9,0
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,6144,21,4,7,10,10,10,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,24,6,14,0,1,30,11,30
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,27,5,10,20,12,55,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9508,3,6,10,0,1,30,15,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,9,5,10,0,19,0,9,0
+SpiceJet,Kolkata,Banglore,CCU → IXB → BLR,1 stop,No info,7804,15,5,15,55,21,25,5,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,7295,3,3,14,40,17,5,2,25
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,9314,1,5,20,25,18,0,21,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,14,0,4,25,14,25
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5176,6,4,10,0,12,45,2,45
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,8,45,19,55,11,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13731,24,5,18,55,8,15,13,20
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,15,6,9,40,19,0,9,20
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,4319,12,6,5,55,8,35,2,40
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,1,6,6,50,16,10,9,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9042,21,3,7,0,13,20,6,20
+Air India,Delhi,Cochin,DEL → RPR → NAG → BOM → COK,3 stops,No info,10703,6,6,5,15,19,15,38,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,6,20,0,12,0,16,0
+IndiGo,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4226,15,5,6,20,10,20,4,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6069,12,6,16,0,21,0,5,0
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,15,3,7,10,8,35,1,25
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,15,5,6,25,7,55,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,15,15,1,35,10,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,15,5,14,5,20,45,6,40
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12080,12,3,19,45,19,55,24,10
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,12841,3,3,13,20,16,10,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11789,15,6,11,40,19,0,7,20
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,27,6,11,30,14,5,2,35
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10467,3,6,13,15,9,25,20,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,18,5,8,25,8,15,23,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,27992,1,3,7,0,20,20,13,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7154,27,3,10,45,19,15,8,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,21,10,19,50,22,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,8,25,23,35,15,10
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,10067,9,3,16,55,19,45,2,50
+IndiGo,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7164,27,5,2,0,7,25,5,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,9,6,21,10,4,40,7,30
+SpiceJet,Kolkata,Banglore,CCU → KNU → BLR,1 stop,No info,8479,6,5,11,35,18,50,7,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,9,5,21,10,4,40,7,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,21,5,23,5,4,25,29,20
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,24,6,2,55,4,20,1,25
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,In-flight meal not included,7791,21,3,10,45,4,25,17,40
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10975,15,6,7,5,9,25,26,20
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,6,21,5,22,25,1,20
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,3311,24,5,5,55,8,35,2,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4622,9,3,22,20,0,40,2,20
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,6,6,20,7,40,1,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7155,24,6,4,55,19,15,14,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,27210,15,3,21,25,5,5,7,40
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,4777,21,3,10,10,13,0,2,50
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,18,5,5,45,7,15,1,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,16704,9,5,13,25,12,35,23,10
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9443,24,6,19,45,19,15,23,30
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,14960,6,6,16,45,8,55,16,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,12,5,21,10,4,40,7,30
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,9548,24,6,12,0,19,15,7,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,11667,12,6,7,5,19,15,12,10
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6416,1,6,8,30,21,0,12,30
+Air India,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,12436,27,5,12,55,19,15,30,20
+Air India,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,7872,18,5,16,45,21,5,28,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7154,21,3,10,45,19,15,8,30
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4437,6,4,19,0,11,5,16,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,15,5,16,30,12,0,19,30
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,3807,24,6,22,50,1,20,2,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5403,24,4,11,30,14,20,2,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,16736,6,3,7,0,23,0,16,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5894,27,6,10,35,21,0,10,25
+Air India,Banglore,New Delhi,BLR → BBI → DEL,1 stop,No info,12704,1,3,9,30,23,45,14,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11299,27,3,4,0,18,50,14,50
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,9,6,9,40,12,35,26,55
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,9,5,13,25,12,35,23,10
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5438,21,4,17,0,19,45,2,45
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,21,5,13,15,14,45,1,30
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,2647,6,6,5,45,7,15,1,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,13,25,12,35,23,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14924,3,6,7,5,19,0,11,55
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,3,6,9,10,10,40,1,30
+Air Asia,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,5320,12,5,7,35,19,25,11,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,15,5,18,55,8,15,13,20
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6027,21,5,15,10,20,50,5,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12681,1,4,18,55,16,20,21,25
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,3809,1,5,19,20,23,45,4,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,6,6,5,30,4,25,22,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,6565,1,3,9,35,12,20,2,45
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,4,20,20,22,55,2,35
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10651,1,6,19,45,19,15,23,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,4,17,15,19,50,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,9,6,16,30,23,35,7,5
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,12488,27,5,12,20,19,15,30,55
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3850,12,5,7,55,10,15,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8073,15,5,18,0,1,30,7,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,6,5,19,35,21,5,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,24,5,14,5,23,35,9,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,18,4,9,0,11,25,2,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,7153,27,5,14,0,21,0,7,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,9,5,18,55,8,15,13,20
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,2647,18,6,5,45,7,15,1,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8285,21,3,9,10,21,0,11,50
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,15,4,17,45,20,45,3,0
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,6,5,19,55,22,25,2,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,10,0,4,25,18,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,12,5,16,30,22,35,6,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,6,30,16,20,9,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,19,45,22,35,26,50
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12080,12,3,8,45,16,45,8,0
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,10588,6,6,21,25,19,0,21,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7695,21,3,11,40,1,35,13,55
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,16389,6,3,5,25,19,45,38,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,15,5,18,55,22,35,27,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,9,6,11,40,21,0,9,20
+Air India,Kolkata,Banglore,CCU → BOM → COK → BLR,2 stops,No info,13222,18,5,9,25,13,45,28,20
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,12,6,5,30,19,0,13,30
+Air India,Delhi,Cochin,DEL → CCU → BOM → COK,2 stops,No info,16163,27,5,6,50,7,40,24,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,12,5,16,30,19,50,27,20
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,8,45,22,55,14,10
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,11038,6,3,6,10,8,15,26,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,24,6,13,0,21,0,8,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,17,45,1,35,7,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13727,6,5,13,0,21,0,8,0
+Jet Airways,Mumbai,Hyderabad,BOM → UDR → DEL → HYD,2 stops,No info,22950,6,3,17,15,16,50,23,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,3,6,14,0,4,25,14,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,6,5,20,0,20,45,24,45
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,4413,18,3,6,55,9,35,2,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,9,5,10,0,19,0,9,0
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,1,6,6,45,4,25,21,40
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,4886,6,4,11,0,14,15,3,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7738,21,3,4,45,15,30,10,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,15,6,18,0,1,30,7,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7503,15,5,9,15,21,0,11,45
+Air India,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,21571,3,3,12,55,19,15,30,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,5,45,20,20,14,35
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,11410,3,6,20,45,6,35,9,50
+GoAir,Delhi,Cochin,DEL → AMD → COK,1 stop,No info,4106,9,4,7,25,13,20,5,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,1,5,14,5,8,15,18,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,19,45,19,40,23,55
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6818,6,6,5,5,16,10,11,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,6565,1,3,17,15,19,55,2,40
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8452,12,6,7,10,10,45,27,35
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,12,5,21,0,23,50,2,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,12,5,20,20,22,55,2,35
+Air India,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12308,6,3,19,0,9,10,14,10
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,6643,27,3,19,10,19,45,24,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4148,15,3,22,10,0,55,2,45
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,27,6,23,5,19,0,19,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,18,15,19,0,24,45
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,1,6,22,45,0,15,1,30
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,11702,21,3,5,30,18,50,13,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7670,18,5,19,0,1,30,6,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,21,10,8,15,11,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,15,0,12,35,21,35
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7952,6,6,6,5,9,25,27,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,12,6,13,15,15,35,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,10,20,1,35,15,15
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,18,6,22,45,0,15,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16108,1,6,10,0,19,15,9,15
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10413,24,5,7,0,20,25,13,25
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,1 Long layover,22270,1,3,14,5,7,40,17,35
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,9064,9,3,17,45,23,0,5,15
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,5620,1,3,10,20,12,55,2,35
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,18,5,20,5,21,40,1,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,27,6,18,55,22,0,3,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,21,4,22,15,0,50,2,35
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,5694,21,3,13,0,15,50,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18371,24,6,2,15,12,35,10,20
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9653,15,6,19,45,19,15,23,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,12,5,18,55,9,20,14,25
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9345,15,5,17,0,23,25,6,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8309,18,5,9,15,19,15,10,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15077,6,3,10,45,19,15,8,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,4885,12,4,9,30,12,20,2,50
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,3,5,10,0,12,45,2,45
+Air India,Kolkata,Banglore,CCU → BOM → GOI → BLR,2 stops,No info,11432,6,6,16,50,5,35,12,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,9,6,20,25,21,5,24,40
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,15,5,17,20,9,25,16,5
+IndiGo,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,5694,9,3,7,30,12,20,4,50
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,5443,18,4,11,0,14,15,3,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,6224,12,6,16,30,4,40,12,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,7308,27,5,18,15,1,30,7,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,9,6,18,55,22,0,3,5
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,16704,24,5,23,5,4,25,29,20
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,16142,3,3,12,30,9,25,20,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,18,5,17,0,21,5,28,5
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8662,9,6,7,10,22,55,15,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,8,25,12,0,27,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,8,0,4,25,20,25
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,18,6,10,20,11,50,1,30
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,6,6,22,45,0,15,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17703,3,3,18,0,1,35,7,35
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,23,5,4,25,29,20
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,9,5,21,10,0,5,2,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,15,0,12,35,21,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12524,6,6,8,45,19,0,10,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6305,27,3,4,0,15,30,11,30
+Jet Airways,Delhi,Cochin,DEL → ATQ → BOM → COK,2 stops,No info,16263,9,5,20,0,4,25,8,25
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,7276,15,3,6,10,8,55,2,45
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,15170,24,5,9,50,8,55,23,5
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,10676,12,5,12,0,11,10,23,10
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12173,24,3,7,0,8,55,25,55
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,9416,12,6,12,0,21,50,9,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,1,5,14,5,12,0,21,55
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8907,9,6,9,45,23,0,13,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,25735,1,3,22,50,20,20,21,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,18,5,19,10,19,0,23,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,18,4,21,25,0,5,2,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,6,6,17,10,19,40,2,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,9,6,17,0,1,30,8,30
+Air India,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,7662,12,5,16,45,21,5,28,20
+SpiceJet,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4649,12,6,15,5,20,20,5,15
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,9,4,9,30,12,20,2,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,21934,15,3,16,55,0,45,7,50
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11260,9,3,23,0,19,15,20,15
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12121,12,5,17,0,21,5,28,5
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,5694,15,3,1,30,4,15,2,45
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8576,9,6,9,25,18,30,9,5
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,21520,1,3,7,0,9,40,2,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,6,6,11,30,1,30,14,0
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,8,45,9,25,24,40
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,27,3,13,10,14,30,1,20
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,6,6,50,16,10,9,20
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4778,9,3,17,15,19,55,2,40
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,11507,6,6,5,30,19,0,13,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7725,9,3,16,0,21,0,5,0
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,9,5,9,35,22,5,12,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7618,27,5,9,0,21,0,12,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,10,0,4,25,18,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18371,27,6,2,15,12,35,10,20
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,9,6,17,0,19,35,2,35
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,10539,9,6,17,0,22,5,29,5
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6938,1,6,14,20,22,30,8,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15103,6,3,13,0,18,50,5,50
+Air India,Kolkata,Banglore,CCU → DEL → AMD → BLR,2 stops,No info,13899,1,5,10,0,5,25,19,25
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,27,4,7,10,10,10,3,0
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6674,6,6,7,35,16,10,8,35
+Air India,Delhi,Cochin,DEL → TRV → COK,1 stop,No info,9790,9,3,5,15,6,50,25,35
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,No info,11093,21,3,10,45,18,50,32,5
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,11,40,18,25,6,45
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,7,0,18,25,11,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,5,9,35,12,20,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6628,27,3,17,30,1,35,8,5
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,20,35,12,25,15,50
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,24,5,9,0,11,25,2,25
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,12,6,14,35,12,35,22,0
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,9330,1,6,7,55,13,25,5,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,1,5,17,0,14,25,21,25
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10467,21,5,13,5,9,25,20,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6540,21,3,8,0,4,25,20,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6316,6,6,16,0,1,30,9,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,27,5,17,10,19,40,2,30
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,21730,1,3,19,40,22,20,2,40
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,27,6,11,0,14,15,3,15
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,21,5,5,30,19,0,13,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,27992,1,3,5,45,21,20,15,35
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,12,5,17,0,14,25,21,25
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,12,6,5,55,8,35,2,40
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6723,9,6,14,55,22,30,7,35
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13882,24,6,9,25,4,25,19,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,1 Long layover,31825,1,3,22,50,10,25,11,35
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,3,5,17,10,19,40,2,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,5,15,15,17,45,2,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10678,6,6,4,55,12,35,7,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,18,15,4,25,10,10
+IndiGo,Kolkata,Banglore,CCU → NAG → BLR,1 stop,No info,6218,12,5,18,5,23,30,5,25
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5298,6,4,6,50,12,10,5,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3540,15,6,5,15,7,40,2,25
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,14851,9,3,22,0,19,15,21,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,6,5,6,30,12,0,5,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,1,6,15,0,1,30,10,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4050,6,6,2,55,4,20,1,25
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,15,6,11,0,14,15,3,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,6,6,9,0,11,25,2,25
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,3,4,16,55,19,55,3,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8662,1,4,17,0,9,5,16,5
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,11753,15,6,10,55,7,40,20,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12121,6,5,17,0,23,35,6,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,9,5,21,50,4,25,6,35
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,4777,21,3,1,30,4,15,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15078,9,5,13,0,1,30,12,30
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7378,15,5,10,35,19,35,9,0
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,6,6,22,20,0,40,2,20
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9863,18,5,16,40,19,15,26,35
+Air India,Banglore,New Delhi,BLR → BOM → IDR → DEL,2 stops,No info,12599,3,3,8,50,11,10,26,20
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,15,6,14,25,16,55,2,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,27,6,9,0,19,0,10,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,9,6,8,25,18,15,9,50
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,6144,24,3,20,0,22,55,2,55
+SpiceJet,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,7185,6,3,16,35,22,50,6,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,24,5,9,0,11,25,2,25
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,15,6,10,20,11,50,1,30
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,10588,15,6,21,25,19,0,21,35
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,18,6,17,10,19,40,2,30
+SpiceJet,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,6065,21,3,6,10,11,20,5,10
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,27,5,21,20,22,50,1,30
+Air India,Banglore,New Delhi,BLR → CCU → GAU → DEL,2 stops,No info,11791,3,3,5,50,22,10,40,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9526,15,6,10,20,19,15,8,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9345,15,5,17,0,18,50,25,50
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2437,18,3,5,45,7,5,1,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12681,1,4,6,30,18,15,11,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,11,30,19,0,7,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,22,55,15,15,16,20
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,24,6,5,30,4,25,22,55
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,27,5,2,35,4,5,1,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6542,15,4,13,0,19,0,6,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14067,21,5,2,15,11,50,9,35
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,6,6,17,0,18,0,25,0
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,18,5,11,10,13,55,2,45
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,6197,27,3,7,10,21,20,14,10
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,9,4,22,10,1,0,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,15,0,12,35,21,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,18,55,20,45,25,50
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4591,18,4,23,30,2,20,2,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,9,5,9,35,12,20,2,45
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4460,6,4,20,45,23,20,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,1,5,21,10,8,15,11,5
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,18,6,5,45,8,45,3,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7255,21,5,16,0,21,0,5,0
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,18,5,9,35,18,0,8,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,8,25,12,0,27,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8055,27,3,7,30,21,0,13,30
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6027,15,5,15,10,20,0,4,50
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6093,9,4,7,30,21,0,13,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7198,27,5,19,0,1,30,6,30
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,15,4,13,20,16,10,2,50
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,1,6,6,5,8,50,2,45
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3847,15,3,22,20,0,40,2,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,3,6,9,0,12,35,27,35
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,1,6,9,40,12,35,26,55
+GoAir,Delhi,Cochin,DEL → AMD → COK,1 stop,No info,6841,27,5,7,25,13,35,6,10
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6152,12,6,7,55,22,25,14,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,22,55,11,25,12,30
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5117,3,4,17,20,9,25,16,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9899,12,6,8,25,18,15,9,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5644,21,4,11,30,14,5,2,35
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,6,6,13,15,14,45,1,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,6565,1,3,14,20,16,55,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,21,10,12,0,14,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,15,5,20,25,14,25,18,0
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5895,15,3,14,30,17,35,3,5
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,15,6,11,10,13,55,2,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,15,4,8,30,11,20,2,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,1,5,20,25,19,10,22,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,19,45,4,25,8,40
+Air India,Kolkata,Banglore,CCU → BOM → AMD → BLR,2 stops,No info,13007,9,6,9,25,5,25,20,0
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6216,18,6,6,0,9,10,3,10
+Jet Airways,Delhi,Cochin,DEL → IXC → BOM → COK,2 stops,No info,11538,21,3,6,20,4,25,22,5
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,18,5,13,55,15,25,1,30
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,13547,9,5,7,5,7,40,24,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,15,6,18,25,21,20,2,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,9,6,9,40,19,0,9,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,1,6,19,45,4,25,8,40
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,In-flight meal not included,5935,21,3,7,10,21,20,14,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,6,30,4,45,22,15
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4282,12,4,4,55,7,45,2,50
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4227,1,4,19,0,9,50,14,50
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,1,5,9,0,11,25,2,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,15,6,11,30,4,25,16,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,10539,9,6,17,0,19,10,26,10
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,1,6,19,30,20,45,1,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,21,5,15,0,19,0,28,0
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3257,15,5,5,55,8,35,2,40
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,15,6,7,5,22,30,15,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,3,6,16,0,19,0,27,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7048,27,3,4,45,15,30,10,45
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8366,6,6,16,50,7,55,15,5
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,3,5,7,0,9,40,2,40
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13611,9,3,15,0,1,35,10,35
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7191,18,5,11,25,21,0,9,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,9,5,7,5,19,0,11,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14848,21,5,11,30,19,15,7,45
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,12,4,11,10,13,55,2,45
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,3210,24,6,19,35,21,5,1,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,6,5,22,50,12,35,13,45
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8366,9,6,9,25,21,50,12,25
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,24,4,10,20,12,55,2,35
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,6,6,6,10,8,55,2,45
+Air Asia,Kolkata,Banglore,CCU → BBI → BLR,1 stop,No info,5162,1,4,6,50,10,30,3,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,6,6,18,55,22,0,3,5
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6216,27,5,14,40,17,50,3,10
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,9,5,17,0,19,45,2,45
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,15,5,10,0,19,15,9,15
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,24,5,21,10,0,5,2,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15342,6,3,9,0,19,15,10,15
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,9,5,20,25,18,0,21,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,18,6,8,20,11,20,3,0
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,20,55,22,55,26,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,21,50,4,25,6,35
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,7923,9,3,16,0,18,35,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15077,6,3,7,30,19,15,11,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6106,9,4,10,35,19,15,8,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9103,15,5,11,25,19,0,7,35
+SpiceJet,Kolkata,Banglore,CCU → IXB → BLR,1 stop,No info,9946,9,6,11,15,18,30,7,15
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,5912,15,4,17,5,22,15,5,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13626,12,6,8,25,18,15,9,50
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6216,24,6,14,40,17,50,3,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,1,6,7,0,21,0,14,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,7,5,19,0,11,55
+Air India,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,10021,9,4,5,55,7,40,25,45
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5176,3,4,10,0,12,45,2,45
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4129,6,3,5,45,7,5,1,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12192,9,6,10,0,19,0,9,0
+Air India,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,12961,6,6,13,20,19,15,29,55
+IndiGo,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4966,9,4,11,30,16,5,4,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,3,6,13,0,15,50,2,50
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,3574,9,4,19,20,23,45,4,25
+Jet Airways,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,21219,6,5,11,40,19,0,7,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,10405,15,3,8,0,8,15,24,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6645,9,4,11,40,1,30,13,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,1,6,15,0,4,25,13,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14067,21,5,17,30,1,30,8,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,22,50,19,0,20,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,21,5,21,10,10,5,12,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,24,5,14,5,9,20,19,15
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,In-flight meal not included,6093,15,6,7,10,16,10,9,0
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,14441,6,6,5,30,12,35,7,5
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6934,6,5,14,10,17,10,3,0
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,6,5,13,15,14,45,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,24318,6,3,17,0,1,35,8,35
+Air India,Banglore,New Delhi,BLR → CCU → DEL,1 stop,No info,11444,3,3,11,5,22,45,11,40
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,6,6,20,25,23,10,2,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,3,6,6,0,8,45,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6628,1,6,18,35,1,30,6,55
+GoAir,Kolkata,Banglore,CCU → AMD → BLR,1 stop,No info,5171,1,4,16,40,0,15,7,35
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8366,18,5,9,25,21,50,12,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,21,5,19,30,4,25,8,55
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,7160,27,4,5,5,12,10,7,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,3,5,14,25,16,55,2,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,9,6,7,10,10,5,2,55
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,18799,3,3,5,25,18,50,13,25
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7927,12,6,20,20,22,40,26,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,6297,15,3,22,5,0,30,2,25
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,3,6,40,22,20,15,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,15,5,21,10,8,15,11,5
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,3,6,5,30,19,0,13,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,18,15,12,35,18,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,1,4,7,10,10,5,2,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,6,5,11,10,14,5,2,55
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,8588,3,3,10,0,12,45,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6093,12,6,7,30,21,0,13,30
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,14588,27,5,7,10,7,40,24,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10577,9,6,19,45,4,25,8,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,20,0,19,50,23,50
+Air Asia,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,6810,6,6,7,35,19,25,11,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,3,5,11,30,14,5,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,21,5,16,30,4,40,12,10
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4145,21,5,20,45,23,20,2,35
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3807,18,3,8,20,10,35,2,15
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3625,12,5,19,30,20,45,1,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5406,1,4,10,0,12,35,26,35
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6790,21,3,8,35,16,10,7,35
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,6,4,20,55,23,40,2,45
+Air India,Kolkata,Banglore,CCU → DEL → COK → TRV → BLR,3 stops,No info,12954,1,4,10,0,10,30,24,30
+SpiceJet,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4963,18,5,15,5,20,20,5,15
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,3971,1,6,9,30,12,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13797,3,6,8,0,21,0,13,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8371,9,4,8,45,19,15,10,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4990,18,4,13,0,15,50,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,18,55,22,35,27,40
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,13022,15,5,17,15,19,15,26,0
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15284,6,3,9,0,19,15,10,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,27,6,21,15,0,15,3,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,22,55,18,25,19,30
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,3807,27,6,19,55,22,25,2,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,15,4,19,50,22,50,3,0
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3838,9,3,21,20,22,45,1,25
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6587,21,3,21,0,19,15,22,15
+Air India,Banglore,New Delhi,BLR → GAU → DEL,1 stop,No info,17198,1,3,13,50,18,40,28,50
+Jet Airways,Banglore,New Delhi,BLR → DEL,non-stop,No info,18308,1,3,19,55,22,35,2,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11789,12,6,6,0,19,0,13,0
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,24,4,13,20,16,10,2,50
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,9,5,5,30,19,0,13,30
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9968,9,6,5,0,19,15,38,15
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,4239,3,4,7,45,10,40,2,55
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,15187,24,3,9,10,7,55,22,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4077,3,4,13,0,15,50,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,19,45,20,40,24,55
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,24,6,13,0,19,15,6,15
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4282,3,4,4,55,7,45,2,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,6,15,15,17,45,2,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12239,27,5,8,0,19,0,11,0
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,5201,24,4,18,5,21,10,3,5
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,5998,27,3,17,40,8,15,14,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7723,1,6,13,0,1,30,12,30
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7927,1,4,7,10,23,25,16,15
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,6300,12,3,8,20,10,35,2,15
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4435,12,3,20,45,23,20,2,35
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,9,5,9,40,12,35,26,55
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8025,6,3,2,0,7,45,5,45
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,12409,18,5,17,15,19,15,26,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,16,30,4,40,12,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17057,3,3,7,5,15,30,8,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6979,9,5,11,25,21,0,9,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,9,3,15,5,18,50,27,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,15,5,18,55,16,20,21,25
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11241,15,6,10,0,19,15,9,15
+Air India,Banglore,New Delhi,BLR → MAA → DEL,1 stop,No info,11707,12,3,11,50,19,50,8,0
+Air India,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,5521,15,3,8,15,8,50,24,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,9,5,21,25,0,5,2,40
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,27,6,22,10,1,0,2,50
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,6,4,9,30,12,20,2,50
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,5515,3,3,9,0,11,30,2,30
+IndiGo,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5164,1,4,2,0,7,25,5,25
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9345,21,5,7,10,20,20,13,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13044,12,6,18,55,16,20,21,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,22,50,4,25,5,35
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,19,10,12,35,17,25
+Vistara Premium economy,Banglore,New Delhi,BLR → DEL,non-stop,No info,11793,3,3,16,0,18,35,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14323,15,5,11,30,19,15,7,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10196,15,6,16,0,1,30,9,30
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4227,3,4,19,0,11,5,16,5
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,15,6,12,0,13,30,1,30
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5021,3,4,21,5,0,20,3,15
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8366,9,5,16,50,7,55,15,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14231,24,3,18,55,12,0,17,5
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,24,5,17,0,22,5,29,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,21,10,12,0,14,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,24,6,22,50,4,25,5,35
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,6,3,9,10,1,35,16,25
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,15,5,20,25,10,55,14,30
+Air Asia,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,5192,6,5,7,35,23,30,15,55
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,10671,15,5,20,30,8,15,11,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,15,5,6,30,12,0,5,30
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,12648,1,3,11,30,14,10,2,40
+Air India,Kolkata,Banglore,CCU → JAI → BOM → BLR,2 stops,No info,10697,21,5,8,20,21,50,13,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,6,0,15,30,9,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,13843,6,3,21,50,4,25,6,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,13502,3,3,8,0,7,40,23,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,12,6,20,55,4,25,7,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5403,9,4,11,30,14,20,2,50
+Air India,Kolkata,Banglore,CCU → BBI → BLR,1 stop,No info,8996,9,6,9,10,13,15,4,5
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,5831,9,3,5,10,8,0,2,50
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,7080,12,4,23,55,2,45,2,50
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,5403,21,3,7,0,9,40,2,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,6144,18,5,8,20,11,20,3,0
+Air India,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,8708,21,3,13,20,19,15,29,55
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,16736,6,3,5,45,18,25,12,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11573,27,5,4,55,19,0,14,5
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,15,4,20,0,22,50,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14178,9,6,20,0,4,40,8,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11622,21,3,11,30,18,50,7,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,27,6,11,35,14,0,2,25
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,6300,12,3,9,30,12,5,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9627,21,5,9,15,19,0,9,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13584,9,5,14,5,18,15,28,10
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8610,12,6,7,10,20,20,13,10
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,6,6,21,25,19,0,21,35
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,13227,1,5,9,50,23,15,13,25
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,36235,1,3,14,5,21,20,7,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,27,6,13,0,21,0,8,0
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,4340,1,5,11,40,14,30,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,18,55,19,50,24,55
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,6,6,5,30,19,0,13,30
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,9,6,6,45,4,25,21,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,20,55,12,35,15,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13587,9,6,7,5,21,0,13,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15078,9,5,15,0,1,30,10,30
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,4340,18,5,11,40,14,30,2,50
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7893,1,4,17,30,12,0,18,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,10539,6,6,17,0,10,55,17,55
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,7038,1,6,7,10,22,30,15,20
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5054,21,5,7,35,12,10,4,35
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,6015,9,6,21,5,0,20,3,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,3,5,6,55,9,30,2,35
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,11188,18,5,13,15,22,30,9,15
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,27,5,23,5,19,0,19,55
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,7295,6,3,7,55,10,15,2,20
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6493,3,6,17,5,22,25,5,20
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,18,6,2,35,4,5,1,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,3,4,9,30,12,20,2,50
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,3807,3,4,22,50,1,20,2,30
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,27,5,19,30,12,35,17,5
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,21,4,11,10,13,55,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,19,15,19,0,23,45
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,15164,1,5,10,0,13,45,27,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17493,3,3,13,0,1,35,12,35
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,27,6,6,45,12,35,29,50
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4435,21,3,20,45,23,20,2,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,27,5,1,30,4,15,2,45
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,4939,15,3,18,5,21,10,3,5
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,11552,6,3,7,5,19,15,36,10
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6147,9,5,15,10,20,0,4,50
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,6,4,8,20,11,20,3,0
+Air India,Chennai,Kolkata,MAA → CCU,non-stop,No info,4405,18,3,11,40,13,55,2,15
+Air India,Kolkata,Banglore,CCU → DEL → AMD → BLR,2 stops,No info,15422,24,5,10,0,5,25,19,25
+SpiceJet,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,5822,15,3,15,35,23,40,8,5
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,18,5,20,25,9,45,13,20
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,24,5,8,20,11,20,3,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,9,5,19,15,19,0,23,45
+Air Asia,Banglore,New Delhi,BLR → DEL,non-stop,No info,10715,1,3,5,50,8,40,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,12,5,21,10,8,15,11,5
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,No info,11869,21,3,10,45,18,50,32,5
+SpiceJet,Kolkata,Banglore,CCU → IXB → BLR,1 stop,No info,9158,9,6,15,55,21,25,5,30
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,18,6,22,45,0,15,1,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4591,1,5,23,30,2,20,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12996,1,4,6,30,16,20,9,50
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13465,6,6,18,45,19,15,24,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,27,6,11,10,14,5,2,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,6,20,25,23,10,2,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,12,6,7,10,10,10,3,0
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,6,6,14,35,4,25,13,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11789,15,6,8,45,19,0,10,15
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,7107,21,3,13,15,9,25,20,10
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,11281,15,5,5,0,7,40,26,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,27,6,5,30,19,0,13,30
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,18,6,17,45,20,5,2,20
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3847,27,3,17,15,19,45,2,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,6,30,23,35,17,5
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,27,6,6,5,8,50,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5963,27,3,19,15,19,45,24,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,9,4,18,25,21,20,2,55
+IndiGo,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No Info,8153,1,3,16,55,21,50,4,55
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,27,6,9,45,12,35,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,1,5,16,30,8,15,15,45
+Air India,Chennai,Kolkata,MAA → CCU,non-stop,No info,4667,3,5,11,40,13,55,2,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,3,3,6,40,13,20,6,40
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,6,21,25,0,5,2,40
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,27,5,22,45,0,15,1,30
+Jet Airways,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,8355,9,6,10,20,17,35,7,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,21,4,15,15,18,10,2,55
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,9,5,13,0,19,15,6,15
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,9416,12,6,12,0,11,10,23,10
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,6,13,55,15,25,1,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,15025,6,3,14,5,11,25,21,20
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6741,18,5,14,40,17,50,3,10
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,6,6,20,55,23,40,2,45
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,12199,27,6,17,15,19,15,26,0
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,6478,12,6,6,0,8,45,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11200,1,6,11,25,19,0,7,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,21,5,17,45,20,45,3,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8452,9,5,20,20,10,45,14,25
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6496,18,5,15,10,20,0,4,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,19,45,16,20,20,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7933,6,6,10,0,21,0,11,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,27,6,4,0,6,50,2,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,17261,6,3,22,50,10,25,11,35
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,1,6,11,0,14,15,3,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,27,6,8,45,21,0,12,15
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9929,27,5,9,0,19,15,10,15
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,15,5,19,55,22,25,2,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13727,15,5,11,30,21,0,9,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,11,30,4,25,16,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,1,6,7,10,10,10,3,0
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,No info,9564,18,5,11,0,14,15,3,15
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,9254,27,3,5,25,18,50,13,25
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4282,24,6,4,55,7,45,2,50
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,27,6,10,0,12,45,2,45
+Air India,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,12751,6,6,13,20,7,40,18,20
+Air India,Banglore,New Delhi,BLR → CCU → BBI → DEL,2 stops,No info,7664,15,3,5,50,12,5,30,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,27,5,6,5,8,50,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,24,5,18,55,10,5,15,10
+Jet Airways,Banglore,New Delhi,BLR → DEL,non-stop,No info,18308,6,3,19,55,22,35,2,40
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,3,5,6,25,7,55,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16108,1,6,8,0,19,15,11,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,18,15,4,25,10,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12192,6,6,8,0,19,0,11,0
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,3,4,13,15,14,45,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,16,30,16,20,23,50
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,27,6,23,5,12,35,13,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,6,5,14,5,4,40,14,35
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6287,15,4,5,5,12,10,7,5
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,27,5,9,0,11,25,2,25
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,9,6,19,30,22,15,2,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,21,6,22,10,1,0,2,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2071,24,3,2,55,4,25,1,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,27,5,7,5,8,30,1,25
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,In-flight meal not included,15544,21,5,5,30,12,35,7,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5177,6,4,11,30,19,0,7,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,24,5,18,55,21,50,2,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4462,27,3,20,25,23,5,2,40
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,4729,3,4,14,20,17,35,3,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,17996,6,3,8,0,8,15,24,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5198,12,4,7,10,10,10,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9316,27,5,11,40,19,15,7,35
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,6300,15,3,17,45,20,5,2,20
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7934,21,3,13,0,19,15,6,15
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,12,5,17,45,20,5,2,20
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,3807,12,6,10,20,12,55,2,35
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,15,5,9,35,10,55,25,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15400,6,3,11,30,18,50,7,20
+Air India,Kolkata,Banglore,CCU → DEL → AMD → BLR,2 stops,No info,14424,15,5,7,0,5,25,22,25
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,27,5,11,10,13,55,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6416,1,6,7,30,21,0,13,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,3625,6,6,5,55,8,35,2,40
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,7975,9,3,7,0,9,40,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,21,5,6,30,8,15,25,45
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No check-in baggage included,4414,27,3,8,45,13,15,4,30
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9555,9,6,7,10,18,50,11,40
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,15,5,17,0,19,10,26,10
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,12,6,13,55,15,25,1,30
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8452,21,5,7,10,9,5,25,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,1,4,9,35,10,55,25,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12557,21,3,16,0,18,50,26,50
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15284,6,3,8,0,19,15,11,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,9,3,6,50,19,45,12,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,15,0,12,35,21,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7787,9,5,7,30,19,15,11,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8614,15,6,10,35,19,15,8,40
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5883,15,6,11,25,1,30,14,5
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,1,6,10,20,12,55,2,35
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,27,5,9,0,11,25,2,25
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,7673,3,3,14,30,17,35,3,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,6,5,6,30,8,15,25,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8937,1,6,11,25,19,15,7,50
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,7451,6,3,14,20,22,20,8,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,9,4,8,30,11,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6076,27,3,7,5,16,10,9,5
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2575,24,3,6,20,7,40,1,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,27992,1,3,5,45,20,20,14,35
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,24,5,8,20,10,35,2,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,18,5,17,10,19,40,2,30
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,5694,24,3,13,0,15,50,2,50
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,10945,9,3,6,5,9,25,27,20
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5406,21,6,21,5,0,20,3,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,19,15,12,35,17,20
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,3687,3,5,7,5,9,20,2,15
+Air India,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,6046,15,3,8,15,21,25,13,10
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,17471,6,3,22,50,21,20,22,30
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,7298,1,3,8,20,10,35,2,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6883,27,3,9,0,21,0,12,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,18,3,11,40,9,30,21,50
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,7258,6,6,17,40,8,15,14,35
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10441,27,5,19,45,19,15,23,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13542,21,3,16,0,1,35,9,35
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3573,6,5,21,10,0,5,2,55
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6979,15,5,11,25,1,30,14,5
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4145,3,6,20,45,23,20,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7740,1,6,11,40,21,0,9,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,1,5,20,0,4,40,8,40
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,6,3,7,30,21,0,13,30
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,12,6,19,30,20,45,1,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,6,5,8,20,11,20,3,0
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,6,21,25,0,5,2,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,24,3,2,55,4,25,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,8,25,19,50,11,25
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6724,9,4,14,5,17,55,3,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4148,9,3,15,20,17,55,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,3,6,17,30,12,35,19,5
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,18,6,8,45,10,15,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7618,21,3,7,0,21,0,14,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,12,5,16,55,19,55,3,0
+Air India,Kolkata,Banglore,CCU → JAI → BOM → BLR,2 stops,No info,10697,18,5,8,20,7,55,23,35
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,1,4,10,20,11,50,1,30
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,12224,12,6,17,30,13,45,20,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,3,6,17,10,19,40,2,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,11841,6,5,16,30,23,35,7,5
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3898,9,6,20,55,23,40,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6795,27,5,10,20,1,30,15,10
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,11753,9,5,10,55,19,15,8,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10678,27,6,4,55,19,0,14,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4148,12,3,20,25,23,5,2,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,11150,27,6,23,5,12,35,13,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5883,12,6,10,35,1,30,14,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,17,30,19,0,25,30
+GoAir,Delhi,Cochin,DEL → AMD → COK,1 stop,No info,4692,24,4,7,25,13,35,6,10
+Air India,Kolkata,Banglore,CCU → IXR → DEL → BLR,2 stops,No info,10991,9,5,5,50,20,25,14,35
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,15,3,6,20,7,40,1,20
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11096,21,5,7,0,20,25,13,25
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,3,6,9,30,12,20,2,50
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,6300,9,3,8,20,10,35,2,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,3,6,22,50,4,25,5,35
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,18,6,20,55,23,40,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,18,55,20,45,25,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,18,4,4,40,7,15,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,18,15,19,0,24,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12681,1,4,8,25,20,45,12,20
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8085,1,5,20,20,23,25,27,5
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,15,6,10,10,13,0,2,50
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,12,6,19,30,4,25,8,55
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,8656,27,3,16,40,19,15,26,35
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,27,6,9,40,19,0,9,20
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,11702,21,3,9,40,18,50,9,10
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No info,6205,9,3,9,35,12,30,2,55
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,27,6,1,30,4,15,2,45
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5644,3,6,14,25,16,55,2,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12032,27,3,20,50,19,45,22,55
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,15,6,14,35,12,35,22,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15190,1,6,7,5,19,0,11,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,24,6,9,40,12,35,26,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,8,25,20,45,12,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,1,5,16,30,10,5,17,35
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,14441,27,6,5,30,12,35,7,5
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4145,6,6,20,45,23,20,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14848,3,6,13,0,19,15,6,15
+SpiceJet,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7947,15,5,15,45,22,5,6,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,11,30,19,0,7,30
+IndiGo,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,6582,27,6,7,15,12,30,5,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,14,0,19,0,5,0
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,21,6,7,5,8,30,1,25
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,No info,17282,9,3,10,45,4,25,17,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,24,6,9,40,12,35,26,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,6,5,18,55,22,0,3,5
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6171,27,3,4,55,12,0,7,5
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,12,6,20,25,10,55,14,30
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,1,6,19,30,12,35,17,5
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,9,6,16,55,19,45,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7485,21,5,19,0,1,30,6,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,15,5,8,25,19,50,11,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,19,15,12,35,17,20
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6591,21,4,7,0,12,55,5,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8610,1,5,7,10,20,20,13,10
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,9,5,20,20,22,55,2,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,12,5,0,30,3,25,2,55
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4384,6,3,19,35,22,5,2,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,6,6,7,0,9,40,2,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7198,27,5,18,0,1,30,7,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,1,5,9,30,12,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6943,27,5,14,0,1,30,11,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2759,9,5,19,35,21,5,1,30
+IndiGo,Banglore,New Delhi,BLR → IDR → DEL,1 stop,No info,8707,1,3,13,40,18,35,4,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,15,6,19,30,12,35,17,5
+Jet Airways Business,Banglore,New Delhi,BLR → MAA → DEL,1 stop,Business class,57209,1,3,9,45,14,25,4,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,1,6,5,30,19,0,13,30
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4107,3,4,19,55,22,25,2,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,21,6,8,30,11,20,2,50
+IndiGo,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5636,9,6,2,0,7,25,5,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,27,5,3,50,19,0,15,10
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7503,15,5,9,15,1,30,16,15
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7870,6,6,14,25,19,35,5,10
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,9,5,18,55,22,0,3,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4148,27,3,5,30,8,20,2,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,15,5,9,35,19,10,9,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,19,15,19,0,23,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,10,0,4,25,18,25
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,15,5,10,0,12,45,2,45
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,5510,12,6,14,15,16,45,2,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,6,5,11,30,14,20,2,50
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,3,5,14,45,17,5,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,34273,9,5,12,50,1,30,12,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10577,9,6,18,15,12,35,18,20
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,6,5,9,0,11,25,2,25
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10840,9,3,23,0,7,40,8,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10877,9,4,8,30,19,0,10,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,14086,9,3,16,0,1,35,9,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,6,6,8,25,4,40,20,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,27,4,20,0,22,50,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11421,27,3,11,40,18,50,7,10
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6938,9,6,14,20,22,30,8,10
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,7295,6,3,11,35,14,0,2,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,15,5,20,0,4,40,8,40
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,13469,6,6,17,0,23,35,6,35
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5298,27,3,6,40,12,0,5,20
+Air India,Kolkata,Banglore,CCU → VNS → DEL → BLR,2 stops,No info,15107,21,5,14,30,23,15,8,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,15,0,4,25,13,25
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,12,6,10,0,12,45,2,45
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,7832,21,3,11,40,21,20,9,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,24,5,9,0,19,0,10,0
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,24,4,4,55,7,45,2,50
+IndiGo,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,6991,24,5,15,10,20,30,5,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4990,27,6,18,55,21,50,2,55
+Air India,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,12436,9,6,12,55,19,15,30,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12327,27,3,13,0,1,35,12,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8073,15,5,19,0,1,30,6,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,18,6,9,0,11,25,2,25
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,7591,3,3,21,10,23,55,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,14086,9,3,6,50,21,0,14,10
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,6,4,20,0,22,50,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,24,6,17,30,4,25,10,55
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6094,12,5,5,10,8,0,2,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,10703,15,5,9,35,22,5,12,30
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,7648,9,3,8,30,11,30,3,0
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6968,21,4,6,50,12,10,5,20
+Jet Airways,Delhi,Cochin,DEL → IXC → BOM → COK,2 stops,In-flight meal not included,9296,27,3,6,20,4,25,22,5
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,7591,9,3,21,10,23,55,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9103,15,5,4,55,19,0,14,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15136,6,3,13,55,21,0,7,5
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,1,6,17,0,19,35,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6883,27,3,8,0,21,0,13,0
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,12,6,9,40,19,0,9,20
+Air India,Banglore,New Delhi,BLR → COK → DEL,1 stop,No info,8425,9,3,22,0,23,20,25,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11822,9,4,20,55,12,35,15,40
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,13502,3,3,11,40,0,45,13,5
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,18,5,19,30,12,35,17,5
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,8290,9,3,19,40,22,20,2,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,9,6,11,10,14,5,2,55
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9861,21,3,7,30,13,20,5,50
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,3687,15,6,7,5,9,20,2,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,22,50,12,35,13,45
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,8834,21,3,19,10,4,25,33,15
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8854,6,3,20,30,23,0,26,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9899,12,6,8,25,20,45,12,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,6297,9,3,11,35,14,0,2,25
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,24,6,1,30,4,15,2,45
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,21,6,20,20,22,55,2,35
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,24,6,11,10,13,55,2,45
+Air India,Kolkata,Banglore,CCU → BBI → HYD → BLR,2 stops,No info,6117,15,5,9,10,11,5,25,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8820,6,6,17,0,20,20,27,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4077,1,6,1,30,4,15,2,45
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10203,6,5,20,30,8,55,12,25
+Air India,Kolkata,Banglore,CCU → BOM → HBX → BLR,2 stops,No info,8366,15,5,9,25,18,20,8,55
+Air India,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,11596,9,5,12,55,19,15,30,20
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,12,6,18,55,22,0,3,5
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,21,4,6,10,8,55,2,45
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9922,12,5,17,0,9,5,16,5
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,24,6,13,15,14,45,1,30
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,18,5,20,40,9,25,12,45
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,1,6,5,30,4,25,22,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,20,55,4,25,7,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,20800,1,3,14,5,10,25,20,20
+Air India,Chennai,Kolkata,MAA → CCU,non-stop,No info,4667,9,6,11,40,13,55,2,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,10,0,4,25,18,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,24,5,20,0,9,20,13,20
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,10361,18,5,12,0,18,30,30,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,21,5,8,25,9,20,24,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,16,0,12,35,20,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,9,5,4,40,7,15,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,6,5,16,30,9,20,16,50
+Air India,Banglore,New Delhi,BLR → MAA → DEL,1 stop,No info,5092,21,3,11,50,23,55,12,5
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,27,6,22,45,0,15,1,30
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,9,5,5,45,7,15,1,30
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,27,5,23,55,2,45,2,50
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10975,27,6,9,45,9,25,23,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,8834,27,3,19,10,19,45,24,35
+Air India,Delhi,Cochin,DEL → CCU → BOM → COK,2 stops,No info,15481,1,6,6,50,7,40,24,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,9134,15,3,5,45,13,15,7,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,8,25,12,0,27,35
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,7276,15,3,10,0,12,45,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14486,21,3,7,5,13,20,6,15
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,3,6,20,7,40,1,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,5,45,19,50,14,5
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5755,3,3,13,10,14,30,1,20
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3859,3,5,9,45,12,0,2,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15373,1,5,9,0,19,15,10,15
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,24,5,20,40,9,25,12,45
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,21,6,19,5,20,35,1,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,7832,21,3,5,45,13,15,7,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,27,5,10,20,11,50,1,30
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3175,12,6,16,55,18,25,1,30
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9968,21,5,5,0,19,15,38,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,1,6,22,20,0,40,2,20
+IndiGo,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,5069,9,5,8,10,13,0,4,50
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4491,6,5,17,10,19,40,2,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,21,6,11,10,14,5,2,55
+Jet Airways,Delhi,Cochin,DEL → MAA → BOM → COK,2 stops,In-flight meal not included,8938,27,3,5,10,19,45,38,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,16,55,10,25,17,30
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8891,1,5,9,25,18,30,9,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7354,24,6,8,30,19,15,10,45
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,12803,15,5,10,55,7,40,20,45
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,14960,12,6,16,45,8,55,16,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10791,27,6,6,0,19,0,13,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,20,55,4,25,7,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,6478,3,6,17,45,20,45,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7933,1,6,18,0,1,30,7,30
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,7648,3,3,13,0,15,50,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8849,1,4,21,10,9,20,12,10
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,12,5,9,35,22,5,12,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,18,15,12,35,18,20
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,6117,1,5,19,0,11,5,16,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,21,5,14,5,4,40,14,35
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3384,21,3,9,30,12,5,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,22,50,19,0,20,10
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,21,6,22,45,0,15,1,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,21,6,13,15,15,35,2,20
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,15,4,22,20,0,40,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16108,1,6,13,0,19,15,6,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,22,50,19,0,20,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9149,27,5,9,15,19,15,10,0
+Air India,Banglore,New Delhi,BLR → BOM → BHO → DEL,2 stops,No info,25430,1,3,8,50,9,25,24,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,5,22,15,0,50,2,35
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,6,6,9,45,16,10,6,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15764,6,3,9,0,4,25,19,25
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10975,21,5,7,5,9,25,26,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,12,5,18,55,8,15,13,20
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3815,15,3,9,0,11,30,2,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,14,5,23,35,9,30
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,21,6,21,20,22,50,1,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17234,6,3,7,5,18,50,11,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,1,5,17,0,22,5,29,5
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,In-flight meal not included,6093,15,6,14,55,22,30,7,35
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8669,12,6,7,0,19,15,12,15
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5613,27,4,7,0,9,40,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,12,5,18,55,12,0,17,5
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,5515,18,4,9,30,12,20,2,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4050,15,6,7,5,8,30,1,25
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,5944,3,3,7,5,9,20,2,15
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9443,21,5,19,45,19,15,23,30
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9397,9,6,20,20,10,45,14,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,9,6,5,30,4,25,22,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,12,5,21,10,9,20,12,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,20,0,22,35,26,35
+Air Asia,Kolkata,Banglore,CCU → BBI → BLR,1 stop,No info,5554,24,3,19,55,23,30,3,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,6,5,14,5,19,50,5,45
+IndiGo,Banglore,New Delhi,BLR → IDR → DEL,1 stop,No info,7166,15,3,13,40,18,35,4,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,9,6,19,30,12,35,17,5
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,3,6,19,0,7,40,12,40
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,12384,24,5,20,25,9,45,13,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,9,5,16,30,10,5,17,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,8,55,10,25,25,30
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,27,5,20,55,23,40,2,45
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,12,6,10,0,19,15,9,15
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10203,9,5,10,0,23,15,13,15
+GoAir,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6276,9,6,7,30,13,35,6,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,9,3,6,50,4,25,21,35
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,9,6,14,35,12,35,22,0
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,21,3,6,20,7,45,1,25
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,15,5,9,35,23,35,14,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12351,9,3,17,30,1,35,8,5
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,3,5,13,20,16,10,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,15342,6,3,9,55,19,15,9,20
+Air India,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,7795,24,3,9,50,21,5,11,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,15,6,9,0,4,25,19,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,14,5,20,45,6,40
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,9314,1,5,9,35,9,45,24,10
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2759,21,3,3,5,4,25,1,20
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,21,55,16,45,18,50
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8879,24,6,7,0,19,15,12,15
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5073,3,4,7,35,12,10,4,35
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7934,21,3,10,0,19,15,9,15
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,16704,18,5,13,25,19,0,29,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7485,21,5,12,50,21,0,8,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8475,27,5,7,30,21,0,13,30
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,7878,3,6,7,10,16,10,9,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,17,30,12,35,19,5
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,4319,27,6,21,10,0,5,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,1,5,8,25,18,15,9,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,14815,6,3,22,50,0,45,25,55
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,12,6,20,55,23,40,2,45
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9345,15,5,7,10,23,25,16,15
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9856,24,6,7,5,16,10,9,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,11,30,12,35,25,5
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3898,3,5,11,40,14,30,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,2,15,19,0,16,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,24,4,23,30,2,20,2,50
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,9,4,1,30,4,15,2,45
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,12,6,11,30,14,5,2,35
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,13838,3,3,9,45,22,20,12,35
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,13243,18,5,7,0,1,20,18,20
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,27,6,21,5,22,25,1,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,1,5,22,10,1,0,2,50
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5065,24,4,16,0,21,0,5,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10678,24,6,11,25,19,0,7,35
+Air India,Delhi,Cochin,DEL → TRV → COK,1 stop,No info,11522,6,3,5,15,6,50,25,35
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,18799,3,3,5,25,4,25,23,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14848,21,5,9,0,19,15,10,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,6,4,22,20,0,40,2,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,6,18,55,22,35,27,40
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11306,18,5,7,0,20,25,13,25
+Air India,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,5626,9,3,6,50,23,10,16,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,16,30,10,5,17,35
+Jet Airways,Delhi,Cochin,DEL → MAA → BOM → COK,2 stops,In-flight meal not included,8728,21,3,16,10,18,50,26,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,5,6,30,18,15,11,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7191,15,5,15,0,1,30,10,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7530,3,6,11,40,1,30,13,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,15,6,20,55,19,0,22,5
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,24,6,19,30,12,35,17,5
+Air India,Kolkata,Banglore,CCU → JAI → BOM → BLR,2 stops,No info,11222,9,5,8,20,11,10,26,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2228,3,4,2,55,4,20,1,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,18,55,4,40,9,45
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,23,5,4,25,29,20
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8907,18,5,20,30,23,0,26,30
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,24,6,5,5,12,10,7,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,6,4,21,25,0,5,2,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,18,5,5,30,19,0,13,30
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,11265,3,3,9,45,16,10,6,25
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,4441,1,4,21,5,23,55,2,50
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4384,9,3,19,35,22,5,2,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,9,6,6,55,9,30,2,35
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,24,5,20,55,23,40,2,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,3,4,20,0,22,50,2,50
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6171,9,3,4,55,16,10,11,15
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,9,5,13,15,15,35,2,20
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10315,9,3,4,0,7,40,27,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,12,5,16,30,9,20,16,50
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,3,5,13,15,14,45,1,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,6,6,20,25,14,25,18,0
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,12814,21,3,5,25,18,50,37,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11622,3,6,9,15,19,0,9,45
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,9,3,7,0,9,30,26,30
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,8603,3,6,12,0,19,15,7,15
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,12,4,11,30,14,5,2,35
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,9,6,14,35,12,35,22,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14924,9,6,19,45,19,0,23,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13727,15,5,14,0,21,0,7,0
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7952,6,6,20,40,9,25,12,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8099,3,6,9,15,19,15,10,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,6,5,14,5,12,0,21,55
+Air India,Kolkata,Banglore,CCU → JAI → DEL → BLR,2 stops,No info,11432,6,6,8,20,20,25,12,5
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14882,6,3,9,0,7,40,22,40
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,1,4,20,5,21,40,1,35
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,5515,1,3,22,20,0,40,2,20
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,15,5,11,10,14,5,2,55
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,9134,15,3,11,40,18,25,6,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,1,4,20,25,15,5,18,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,24,4,11,10,14,5,2,55
+Air India,Kolkata,Banglore,CCU → BOM → COK → BLR,2 stops,No info,13484,21,5,16,50,13,45,20,55
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5021,18,3,21,5,0,20,3,15
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,21,5,13,0,19,15,6,15
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6591,9,5,10,35,19,35,9,0
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,6,15,15,17,45,2,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,12,6,11,35,14,0,2,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,9,6,21,10,18,15,21,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,3,3,10,20,1,35,15,15
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3898,3,4,11,40,14,30,2,50
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13882,6,6,11,45,4,25,16,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,4413,18,3,17,15,19,45,2,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,16022,6,3,19,10,4,25,33,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,25735,1,3,11,40,11,25,23,45
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,3,6,21,25,12,35,15,10
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,1,6,18,55,22,0,3,5
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,1 Long layover,26890,1,3,16,55,7,40,14,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,9,3,20,50,18,50,22,0
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No info,8488,6,3,8,45,13,15,4,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18286,3,3,13,0,21,0,8,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,12,5,21,10,4,40,7,30
+Air India,Kolkata,Banglore,CCU → DEL → AMD → BLR,2 stops,No info,14634,12,5,10,0,5,25,19,25
+Air India,Kolkata,Banglore,CCU → BOM → COK → BLR,2 stops,No info,11668,9,6,9,25,1,20,15,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13364,1,4,21,10,8,15,11,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,17,30,12,35,19,5
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,1,6,14,35,4,25,13,50
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,1,6,7,5,22,30,15,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,6,3,8,25,21,0,12,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,6,4,10,10,13,0,2,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,7832,21,3,20,35,10,25,13,50
+Air Asia,Banglore,New Delhi,BLR → DEL,non-stop,No info,3383,24,3,11,10,13,55,2,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5198,3,5,8,20,11,20,3,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,3,3,4,45,13,20,8,35
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,9,6,21,10,0,5,2,55
+Air India,Kolkata,Banglore,CCU → IXR → DEL → BLR,2 stops,No info,11201,9,6,5,50,20,25,14,35
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,16914,9,3,5,25,4,25,23,0
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,12609,24,6,21,25,12,35,15,10
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5644,15,6,9,35,12,10,2,35
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,3,6,18,25,21,20,2,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,21,50,19,0,21,10
+Air India,Banglore,New Delhi,BLR → HYD → VGA → DEL,2 stops,No info,7904,15,3,8,15,22,55,14,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,9,6,20,0,4,40,8,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,21,5,20,0,9,20,13,20
+GoAir,Banglore,Delhi,BLR → DEL,non-stop,No info,3898,15,6,20,55,23,40,2,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,15,4,17,45,20,45,3,0
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,13999,1,3,9,10,10,40,1,30
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,10231,27,5,22,0,19,15,21,15
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,27,5,21,0,23,50,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,10,0,12,35,26,35
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,6,6,17,45,20,5,2,20
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No info,4812,24,6,8,45,13,15,4,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,9,5,20,25,23,35,27,10
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,18,5,7,10,10,5,2,55
+Air India,Kolkata,Banglore,CCU → IXR → DEL → BLR,2 stops,No info,12723,18,5,5,50,12,30,30,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,3,5,15,15,18,10,2,55
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,22,50,5,5,6,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,16,0,12,35,20,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,15,4,20,20,22,55,2,35
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,18,5,9,40,19,0,9,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,24,6,11,30,1,30,14,0
+SpiceJet,Kolkata,Banglore,CCU → KNU → BLR,1 stop,No info,8479,1,5,11,35,18,50,7,15
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,10651,27,5,22,0,19,15,21,15
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,14306,1,3,18,55,21,45,2,50
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,10651,15,5,12,0,7,40,19,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,24,6,19,35,21,5,1,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5088,6,6,19,30,22,15,2,45
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,9,5,19,30,12,35,17,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7575,21,5,4,55,19,15,14,20
+Jet Airways,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,8355,1,5,10,20,17,35,7,15
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,8001,6,3,14,55,17,50,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,6,6,18,55,10,5,15,10
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6601,9,4,7,5,18,10,11,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18581,24,6,7,5,19,0,11,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5198,21,3,10,10,12,55,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,1,5,21,10,4,40,7,30
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,27,5,9,45,12,0,2,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9103,21,5,11,25,19,0,7,35
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,16704,18,5,13,25,4,25,15,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,20,55,12,35,15,40
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,11664,27,3,5,25,4,25,23,0
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,15,6,14,45,17,5,2,20
+Air Asia,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,5192,1,5,22,40,10,40,12,0
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,15,5,10,20,12,55,2,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,15,4,7,10,10,10,3,0
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,1,6,17,10,19,40,2,30
+GoAir,Delhi,Cochin,DEL → AMD → COK,1 stop,No info,4563,27,3,6,0,13,20,7,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13555,18,3,8,55,19,10,10,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,31825,1,3,18,40,9,0,14,20
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,5195,12,4,14,15,16,45,2,30
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,8367,27,3,17,15,7,40,14,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5644,18,4,9,35,12,20,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7503,18,5,10,35,1,30,14,55
+Air Asia,Kolkata,Banglore,CCU → BBI → BLR,1 stop,No info,6857,9,6,6,50,10,30,3,40
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,6,6,9,45,22,30,12,45
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,9,5,5,30,4,25,22,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16108,15,6,11,30,19,15,7,45
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,15129,9,5,9,40,4,25,18,45
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,13873,6,5,10,0,1,20,15,20
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,18,3,2,30,4,0,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11789,6,6,6,0,19,0,13,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12681,1,4,20,0,22,35,26,35
+Jet Airways,Banglore,New Delhi,BLR → BDQ → DEL,1 stop,Business class,28097,1,3,5,50,12,20,6,30
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,13547,9,5,7,5,7,40,24,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10577,3,6,7,5,19,0,11,55
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,15,6,17,45,20,5,2,20
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2228,6,5,19,35,21,5,1,30
+IndiGo,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5636,27,6,2,0,7,25,5,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,17,30,4,25,10,55
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,12,5,9,30,12,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9486,21,5,13,5,0,55,11,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,9,6,17,0,9,45,16,45
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,22270,1,3,8,0,8,15,24,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,19,15,4,25,9,10
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5883,15,6,17,30,1,30,8,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9103,15,5,10,35,19,0,8,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,3,6,5,30,19,0,13,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10953,6,5,9,35,9,45,24,10
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,5734,21,3,6,0,8,45,2,45
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,5170,21,3,14,15,16,45,2,30
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,12,5,22,45,0,15,1,30
+Air India,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,10861,6,6,5,55,19,15,13,20
+IndiGo,Kolkata,Banglore,CCU → PAT → BLR,1 stop,No info,10308,1,4,9,20,14,15,4,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10667,27,3,9,10,19,15,10,5
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,3,6,19,30,4,25,8,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13135,6,3,4,0,15,30,11,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,6,5,18,55,4,40,9,45
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,10276,6,3,9,45,22,20,12,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5198,27,4,8,20,11,20,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8266,21,5,11,40,19,15,7,35
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,21,5,5,45,8,45,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9794,18,5,10,20,19,0,8,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18286,3,3,13,0,1,35,12,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,22,55,12,25,13,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,16736,6,3,11,40,23,0,11,20
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,18,5,9,30,12,20,2,50
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,No info,9564,15,6,11,0,14,15,3,15
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,13033,6,6,10,0,1,20,15,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13727,9,5,10,0,21,0,11,0
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,6297,12,3,22,5,0,30,2,25
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,3897,24,3,22,20,1,10,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8882,18,5,4,55,12,35,7,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,3,6,11,10,14,5,2,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,24,4,17,45,20,45,3,0
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,In-flight meal not included,7563,6,3,7,10,16,10,9,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,6,30,19,50,13,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,6,6,20,0,16,20,20,20
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,18,5,17,45,20,5,2,20
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,7476,24,3,15,10,19,50,4,40
+IndiGo,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,5069,1,5,8,10,13,0,4,50
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No info,5126,9,3,20,30,23,20,2,50
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13882,27,6,11,45,12,35,24,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4050,1,6,2,55,4,20,1,25
+Air India,Banglore,New Delhi,BLR → HBX → BOM → NAG → DEL,3 stops,No info,12358,3,3,12,0,10,35,22,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,6,6,6,30,23,35,17,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10877,9,6,4,55,12,35,7,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,8,0,19,0,11,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,3,6,2,15,19,0,16,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,18,5,14,5,12,0,21,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,1,6,17,15,19,50,2,35
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,2385,15,3,13,10,14,30,1,20
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,9314,1,4,9,35,18,0,8,25
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,9,5,22,20,0,40,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9100,21,3,7,30,19,15,11,45
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,4777,24,3,4,0,6,50,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7354,12,6,7,30,19,15,11,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16775,3,3,19,0,1,35,6,35
+Jet Airways,Delhi,Cochin,DEL → MAA → BOM → COK,2 stops,In-flight meal not included,8728,27,3,5,10,18,50,13,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8098,21,3,13,0,1,35,12,35
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,18,5,10,0,7,40,21,40
+Air India,Delhi,Cochin,DEL → CCU → BOM → COK,2 stops,No info,10756,21,3,6,50,19,15,36,25
+Jet Airways,Delhi,Cochin,DEL → ATQ → BOM → COK,2 stops,In-flight meal not included,12410,12,6,20,0,4,25,8,25
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,21,4,10,0,12,45,2,45
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,15,6,21,20,22,50,1,30
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,12829,24,3,7,0,13,45,30,45
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12173,24,3,20,30,16,15,19,45
+SpiceJet,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4649,12,5,15,5,20,20,5,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,15,6,22,20,0,40,2,20
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6094,21,5,14,5,17,55,3,50
+Air India,Banglore,New Delhi,BLR → BOM → BHO → DEL,2 stops,No info,12725,12,3,17,25,23,25,30,0
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,18,5,9,35,19,10,9,35
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,9,6,19,55,22,25,2,30
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13357,24,6,11,45,4,25,16,40
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,No info,11093,21,3,10,45,4,25,17,40
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4591,3,5,23,30,2,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10406,1,6,7,5,21,0,13,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,15,6,5,30,19,0,13,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,19,45,19,0,23,15
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,21,5,17,45,20,5,2,20
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,8386,9,3,9,45,16,10,6,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,6,4,14,25,16,55,2,30
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,24,6,5,30,4,25,22,55
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10441,3,6,19,45,19,15,23,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,18,3,16,55,9,0,16,5
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,6327,12,5,19,0,11,5,16,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,24,6,19,15,4,25,9,10
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5613,6,4,19,30,22,15,2,45
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,24,3,22,45,0,10,1,25
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,5088,24,3,16,0,18,35,2,35
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,27,5,19,30,20,45,1,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,1,5,8,25,4,40,20,15
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,21,5,19,30,12,35,17,5
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,24,6,7,0,9,40,2,40
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,3,6,17,0,19,45,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9001,24,6,7,30,19,15,11,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,13843,9,3,21,50,18,50,21,0
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,6,4,11,10,13,55,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,9,5,8,25,18,15,9,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → PNQ → BLR,2 stops,In-flight meal not included,10118,21,5,6,30,20,50,14,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4077,3,4,6,5,8,50,2,45
+Air India,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,6528,12,5,14,35,14,35,24,0
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,3,6,17,10,19,40,2,30
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6121,3,5,21,5,23,55,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,18,15,4,25,10,10
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6027,24,4,15,10,20,0,4,50
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,9254,27,3,5,25,4,25,23,0
+Vistara,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,12395,6,3,11,55,9,25,21,30
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8879,18,5,3,50,19,15,15,25
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,7090,27,3,9,45,9,25,23,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15077,6,3,6,40,19,15,12,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,18,55,18,15,23,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,18,6,11,35,14,0,2,25
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,11150,27,6,23,5,4,25,29,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,12,6,12,50,21,0,8,10
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3175,15,3,12,0,13,25,1,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10208,21,3,7,30,15,30,8,0
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,7084,6,3,7,5,21,20,14,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,14815,6,3,8,0,5,5,21,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,15,6,14,0,12,35,22,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,12,4,14,25,16,55,2,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,1,4,20,25,9,45,13,20
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,6,6,6,25,7,55,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,15,5,16,30,10,5,17,35
+Air India,Chennai,Kolkata,MAA → CCU,non-stop,No info,4667,27,5,11,40,13,55,2,15
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,24,5,9,45,12,0,2,15
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,3383,9,5,11,10,13,55,2,45
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,15,4,21,10,0,5,2,55
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,14120,6,5,9,50,23,15,13,25
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,21,5,7,10,10,10,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,27,5,11,40,21,0,9,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,17261,6,3,21,25,10,25,13,0
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5883,12,6,18,35,1,30,6,55
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4268,9,4,15,15,20,5,4,50
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,9,6,9,40,12,35,26,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,12,6,5,30,4,25,22,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16289,9,3,16,0,18,50,26,50
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,6,6,6,0,8,45,2,45
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,9417,12,6,17,15,9,25,16,10
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13882,15,6,11,45,4,25,16,40
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,20,35,10,45,14,10
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,9314,1,4,9,35,19,10,9,35
+IndiGo,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4565,24,4,15,15,20,5,4,50
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,9,6,9,35,10,55,25,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,27,6,7,30,21,0,13,30
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,21,3,9,10,10,35,1,25
+Air India,Banglore,New Delhi,BLR → CCU → DEL,1 stop,No info,12389,3,3,5,50,12,55,7,5
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8627,6,3,16,45,7,10,14,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7757,6,6,21,10,4,40,7,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,9,4,10,10,13,0,2,50
+Air India,Banglore,New Delhi,BLR → COK → DEL,1 stop,No info,8845,15,3,22,0,13,20,15,20
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9345,24,5,20,20,23,25,27,5
+SpiceJet,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4649,21,5,15,5,20,20,5,15
+IndiGo,Kolkata,Banglore,CCU → PNQ → BLR,1 stop,No info,7605,9,5,21,0,2,15,5,15
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8662,12,5,7,10,22,40,15,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,18,5,18,55,9,20,14,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8625,27,5,10,35,19,15,8,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10546,9,5,7,5,21,0,13,55
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8891,15,5,16,50,7,55,15,5
+Jet Airways,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,13082,21,3,13,0,18,50,29,50
+IndiGo,Delhi,Cochin,DEL → LKO → COK,1 stop,No info,5775,12,6,21,50,3,35,5,45
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,9,6,19,30,12,35,17,5
+Jet Airways,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,20747,3,3,18,20,4,25,34,5
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,5170,15,3,14,15,16,45,2,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,21,5,2,15,19,0,16,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,6,6,17,0,9,45,16,45
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,In-flight meal not included,11270,6,6,21,25,12,35,15,10
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13100,24,3,17,0,18,45,25,45
+Jet Airways,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,No info,18804,1,6,11,40,19,0,7,20
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,9,6,5,30,4,25,22,55
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,22270,1,3,11,40,5,5,17,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11200,1,6,8,30,19,0,10,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,18,5,9,0,19,0,10,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,26890,1,3,8,55,15,15,6,20
+Jet Airways,Delhi,Cochin,DEL → JDH → BOM → COK,2 stops,In-flight meal not included,19644,9,5,11,40,19,0,7,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8405,15,5,7,30,21,0,13,30
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,In-flight meal not included,15544,27,5,5,30,12,35,7,5
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,6,6,7,10,10,10,3,0
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,9,5,17,0,21,5,28,5
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8879,18,5,10,0,19,15,9,15
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8372,21,5,8,0,19,15,11,15
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,27,4,13,20,16,10,2,50
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,27,6,17,0,19,45,2,45
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8452,15,5,17,0,10,45,17,45
+SpiceJet,Kolkata,Banglore,CCU → PNQ → BLR,1 stop,No info,6853,9,6,8,35,17,15,8,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,1,5,20,0,12,0,16,0
+Jet Airways,Delhi,Cochin,DEL → UDR → BOM → COK,2 stops,No info,17072,6,3,17,55,4,25,34,30
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5117,1,4,17,20,9,25,16,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,18,15,19,0,24,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,21,5,16,0,19,0,27,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7005,9,6,12,50,21,0,8,10
+Air India,Kolkata,Banglore,CCU → VNS → DEL → BLR,2 stops,No info,15894,6,6,14,30,23,15,8,45
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3540,1,6,5,15,7,40,2,25
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3175,15,6,16,55,18,25,1,30
+Multiple carriers,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,11560,9,3,13,15,21,20,8,5
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,3311,21,5,5,55,8,35,2,40
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,8033,15,3,16,55,19,45,2,50
+SpiceJet,Delhi,Cochin,DEL → PNQ → COK,1 stop,No check-in baggage included,5158,21,5,8,45,13,15,4,30
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,9,5,10,20,12,55,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,6,6,7,0,21,0,14,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13759,24,3,8,25,22,35,14,10
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,1,6,22,10,1,0,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,11841,9,6,21,10,9,20,12,10
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,6985,3,3,15,10,17,45,2,35
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,9416,6,6,12,0,21,50,9,50
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,16914,6,3,5,25,19,45,38,20
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,1,6,21,25,12,35,15,10
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4148,21,3,6,55,9,35,2,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,22,50,19,0,20,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,24,5,14,5,22,35,8,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,19,0,1,35,6,35
+Air India,Kolkata,Banglore,CCU → JAI → BOM → BLR,2 stops,No info,10697,21,5,8,20,18,30,10,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,20,55,19,0,22,5
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,9314,6,5,20,25,22,5,25,40
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,8066,9,5,9,35,10,55,25,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9627,27,5,8,30,19,0,10,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,18,5,7,0,19,0,12,0
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,6,5,9,10,10,40,1,30
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6253,15,6,7,55,13,25,5,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,17,30,12,35,19,5
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,9400,3,3,7,5,9,25,26,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13626,12,6,6,30,16,20,9,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10877,6,6,11,25,19,0,7,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,18,55,18,15,23,20
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,3210,21,5,19,35,21,5,1,30
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,6860,3,3,7,10,10,5,2,55
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4668,27,5,11,30,14,20,2,50
+Air India,Mumbai,Hyderabad,BOM → DEL → HYD,1 stop,No info,10208,12,3,19,40,9,10,13,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,16704,18,5,23,5,4,25,29,20
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No check-in baggage included,1965,24,5,5,45,7,15,1,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,In-flight meal not included,10539,9,6,20,25,21,5,24,40
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3173,21,3,5,45,7,5,1,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6645,27,3,8,0,4,25,20,25
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6094,6,6,14,10,17,10,3,0
+SpiceJet,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,4957,27,4,17,55,22,50,4,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9187,21,5,7,10,10,45,27,35
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,10231,27,5,22,0,19,15,21,15
+Air India,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,11543,15,5,5,55,7,40,25,45
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,18,5,7,0,9,40,2,40
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,6,6,50,22,30,15,40
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,18,55,9,30,14,35
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,3,4,11,10,14,5,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,18,55,12,0,17,5
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,9,6,9,45,12,0,2,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13584,6,5,21,10,16,20,19,10
+Air India,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,18736,9,3,5,55,19,15,13,20
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,12,5,11,0,14,15,3,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9424,9,5,13,0,1,30,12,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15554,18,5,11,30,19,0,7,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,1,6,8,20,11,20,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13797,12,6,8,0,21,0,13,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,1,5,18,55,21,50,2,55
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,27,3,11,35,14,0,2,25
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,18,55,10,25,15,30
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4049,9,6,9,10,10,40,1,30
+SpiceJet,Kolkata,Banglore,CCU → KNU → BLR,1 stop,No info,8479,12,6,11,35,18,50,7,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6093,15,6,7,30,21,0,13,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,1,5,6,5,8,50,2,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7081,24,5,10,35,1,30,14,55
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,4319,15,4,5,55,8,35,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,21,10,16,20,19,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10577,12,6,8,0,4,25,20,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17057,3,3,7,5,13,20,6,15
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,3,4,9,0,11,25,2,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,6,5,15,15,17,45,2,30
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,5201,6,6,5,10,8,0,2,50
+Air India,Banglore,New Delhi,BLR → BOM → UDR → DEL,2 stops,No info,10835,18,3,8,50,16,30,31,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12242,27,3,20,50,4,25,7,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5618,3,3,22,10,0,55,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9794,1,5,10,20,19,0,8,40
+Air India,Banglore,New Delhi,BLR → HYD → DEL,1 stop,No info,6273,3,3,8,15,12,15,4,0
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,3807,21,6,10,20,12,55,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,10,0,19,0,9,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9899,12,6,8,25,16,20,7,55
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,6,6,5,30,4,25,22,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13584,6,5,18,55,16,20,21,25
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4050,15,6,10,20,11,50,1,30
+Air India,Banglore,New Delhi,BLR → COK → DEL,1 stop,No info,6955,21,3,22,0,10,50,12,50
+Air Asia,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,5192,1,5,7,35,23,30,15,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,11134,24,3,21,10,9,15,12,5
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4990,21,4,16,55,19,55,3,0
+Jet Airways,Delhi,Cochin,DEL → IXC → BOM → COK,2 stops,No info,12273,27,3,6,20,19,45,37,25
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,6,15,0,16,25,1,25
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,12,6,9,35,19,10,9,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,15,5,8,0,19,0,11,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14924,24,6,7,5,12,35,5,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,12681,1,4,18,55,18,15,23,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9103,21,5,4,55,12,35,7,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,9,5,23,5,4,25,29,20
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,5277,6,5,22,5,0,25,2,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,12,6,13,0,19,0,6,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,12,6,14,0,1,30,11,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7503,18,5,9,15,1,30,16,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,12,6,6,0,8,45,2,45
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3540,12,6,5,15,7,40,2,25
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,18211,9,3,18,30,19,15,24,45
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4409,3,6,10,20,12,55,2,35
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,9,5,19,30,4,25,8,55
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10203,6,6,10,0,20,25,10,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7198,27,5,13,0,1,30,12,30
+IndiGo,Banglore,New Delhi,BLR → IDR → DEL,1 stop,No info,6351,9,3,17,55,22,55,5,0
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,1,4,19,35,21,5,1,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,12,4,9,0,11,25,2,25
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13538,6,5,12,20,19,15,30,55
+Air India,Kolkata,Banglore,CCU → IXR → DEL → BLR,2 stops,No info,10991,6,5,5,50,8,55,27,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,21,10,10,5,12,55
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13832,9,3,21,40,7,40,10,0
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6094,21,5,18,5,21,10,3,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14533,18,5,11,30,19,15,7,45
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,24,6,17,10,19,40,2,30
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,12,5,17,45,20,5,2,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,8,25,10,5,25,40
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,5277,1,6,22,5,0,25,2,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5963,27,3,9,55,18,50,8,55
+IndiGo,Delhi,Cochin,DEL → LKO → COK,1 stop,No info,6058,9,5,21,50,3,35,5,45
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5000,21,6,14,25,17,40,3,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10351,27,3,9,10,21,0,11,50
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,11410,6,6,20,45,7,10,10,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12242,27,3,21,50,4,25,6,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,10,0,4,25,18,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,12,5,20,0,12,0,16,0
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8366,12,6,16,50,7,55,15,5
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,10703,21,3,12,20,19,15,30,55
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5073,1,4,7,35,12,10,4,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12032,27,3,7,5,18,50,11,45
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,21,5,12,30,9,25,20,55
+Air India,Kolkata,Banglore,CCU → VNS → DEL → BLR,2 stops,No info,14214,9,5,14,30,23,15,8,45
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,24,6,18,55,21,50,2,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,6,17,15,19,50,2,35
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8907,27,5,9,45,23,0,13,15
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4384,9,3,10,20,12,55,2,35
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,15,4,6,55,9,30,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,16,30,19,50,27,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7485,21,5,10,20,21,0,10,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10197,15,5,9,0,19,0,10,0
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,9,3,11,0,14,15,3,15
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,12692,9,6,17,0,21,5,28,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,11627,6,6,13,0,12,35,23,35
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3540,3,6,5,15,7,40,2,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,21,5,22,50,4,25,5,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,18,5,21,10,10,5,12,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,7438,21,3,11,30,4,25,16,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,1,6,7,5,12,35,5,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,27,6,14,25,16,55,2,30
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,27,6,20,25,23,10,2,45
+Air India,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,8603,3,6,12,0,7,40,19,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13587,27,6,10,0,21,0,11,0
+GoAir,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5199,9,6,5,55,13,35,7,40
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,11982,27,6,17,45,20,5,2,20
+Air India,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,8714,15,3,8,50,23,15,14,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,24,6,5,30,4,25,22,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,20,0,19,50,23,50
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,27,4,17,10,19,40,2,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,15,6,18,55,22,0,3,5
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,6092,1,3,15,0,16,25,1,25
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,21,6,6,55,9,30,2,35
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,11806,21,5,5,0,7,40,26,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,15,5,16,30,22,35,6,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,15,5,6,30,18,15,11,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13731,6,6,8,25,4,40,20,15
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,15,5,21,5,23,55,2,50
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3419,27,5,0,30,3,25,2,55
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,24,5,10,20,11,50,1,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,2,15,19,0,16,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,6017,21,3,15,0,4,25,13,25
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,1,6,9,45,12,0,2,15
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12646,6,3,16,40,19,15,26,35
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,12,6,5,30,19,0,13,30
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,1,6,14,35,12,35,22,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,18,3,11,40,5,5,17,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11622,9,6,9,15,19,0,9,45
+IndiGo,Kolkata,Banglore,CCU → NAG → BLR,1 stop,No info,6218,24,5,18,5,23,30,5,25
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,In-flight meal not included,10919,15,6,14,35,12,35,22,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8610,12,6,7,10,23,25,16,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,21,4,8,20,11,20,3,0
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11936,12,6,10,0,16,15,6,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,1,5,19,50,22,50,3,0
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,15170,24,5,9,50,23,15,13,25
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,6297,15,3,7,55,10,15,2,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,21,10,23,35,26,25
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,1,4,9,0,11,25,2,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7826,24,3,6,30,12,0,5,30
+Air India,Delhi,Cochin,DEL → HYD → MAA → COK,2 stops,No info,10467,27,5,13,15,9,25,20,10
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,1,6,8,30,11,20,2,50
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7048,1,6,9,15,1,30,16,15
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,24,5,9,35,22,5,12,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,6297,9,3,7,55,10,15,2,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11667,27,3,10,0,18,50,8,50
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,12392,18,5,17,15,19,15,26,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,9,5,15,0,4,25,13,25
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3850,18,5,15,40,18,25,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,20,0,16,20,20,20
+Air India,Banglore,New Delhi,BLR → HYD → VGA → DEL,2 stops,No info,8534,15,3,17,0,22,55,29,55
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6493,9,6,17,5,22,15,5,10
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,3687,12,6,7,5,9,20,2,15
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,9,5,13,55,15,25,1,30
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,11150,27,6,23,5,19,0,19,55
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,4885,15,6,9,30,12,20,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15603,3,3,7,0,21,0,14,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,7064,1,4,18,55,9,20,14,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5073,27,3,20,30,1,35,5,5
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,4575,3,3,2,30,4,0,1,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,24,6,6,0,8,45,2,45
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,4487,9,4,6,5,9,25,27,20
+Air India,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,8446,27,3,5,55,19,15,37,20
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,6,5,5,16,10,11,5
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,27,6,19,15,19,0,23,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11667,21,3,9,0,18,50,9,50
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,9,6,19,5,20,35,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,12,5,14,5,22,35,8,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,12,5,20,0,18,15,22,15
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,3948,27,6,10,35,19,35,9,0
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,24,6,20,5,21,40,1,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13377,27,5,14,0,1,30,11,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14973,3,3,4,0,15,30,11,30
+Jet Airways,Delhi,Cochin,DEL → ATQ → BOM → COK,2 stops,In-flight meal not included,15318,1,6,20,0,4,25,8,25
+SpiceJet,Kolkata,Banglore,CCU → KNU → BLR,1 stop,No info,8479,6,6,11,35,18,50,7,15
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,23,5,19,0,19,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,1,4,6,0,8,45,2,45
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,9,6,19,0,1,30,6,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,21,5,20,25,22,5,25,40
+Air India,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,12488,12,6,7,10,19,15,12,5
+SpiceJet,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,5975,9,5,17,55,22,50,4,55
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6104,9,6,17,30,1,30,8,0
+Air India,Delhi,Cochin,DEL → GOI → BOM → COK,2 stops,No info,13223,27,5,10,55,19,15,8,20
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,15170,24,5,9,50,12,30,26,40
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10877,15,6,11,25,19,0,7,35
+Jet Airways,Delhi,Cochin,DEL → BDQ → BOM → COK,2 stops,No info,14237,12,6,18,25,12,35,18,10
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,8236,21,3,19,45,19,15,23,30
+Air India,Delhi,Cochin,DEL → CCU → BOM → COK,2 stops,No info,13801,1,6,16,55,19,15,26,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,7832,21,3,22,50,11,25,12,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,6,5,8,25,20,45,12,20
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10577,12,6,8,0,19,0,11,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,31825,1,3,20,35,11,25,14,50
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10188,15,5,14,25,19,35,5,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9595,18,5,18,0,1,30,7,30
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,1,6,9,45,12,35,2,50
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,5530,12,5,19,55,22,25,2,30
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8991,12,6,20,30,8,15,11,45
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,9646,9,6,7,5,22,30,15,25
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,24,4,19,50,22,50,3,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,18,5,5,45,8,15,26,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7531,21,3,10,20,19,15,8,55
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,7923,9,3,16,10,18,50,2,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,12,6,9,0,11,25,2,25
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6314,9,6,10,35,21,0,10,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,12,5,18,55,4,40,9,45
+Vistara,Banglore,New Delhi,BLR → AMD → DEL,1 stop,No info,6065,21,3,6,40,21,55,15,15
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,7832,21,3,5,45,19,10,13,25
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,27,6,6,45,12,35,29,50
+Vistara,Banglore,New Delhi,BLR → DEL,non-stop,No info,8553,3,3,19,40,22,20,2,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,9,3,6,30,8,0,1,30
+GoAir,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8213,6,3,10,25,19,20,8,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,20,0,12,0,16,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,13,0,19,0,6,0
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,10067,1,3,10,5,13,0,2,55
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2228,18,3,2,55,4,25,1,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,7295,1,3,13,20,15,35,2,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7354,6,6,7,30,19,15,11,45
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5438,12,5,17,0,19,45,2,45
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,27,6,19,5,20,35,1,30
+Jet Airways,Delhi,Cochin,DEL → ATQ → BOM → COK,2 stops,No info,14300,27,6,18,20,12,35,18,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,7,5,12,35,5,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,20,55,4,25,7,30
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,In-flight meal not included,13344,24,6,5,30,12,35,7,5
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,1,6,6,45,4,25,21,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,15,6,5,30,4,25,22,55
+Multiple carriers,Delhi,Cochin,DEL → IXU → BOM → COK,2 stops,No info,18485,1,6,17,50,1,30,7,40
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12373,18,5,19,15,19,0,23,45
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,6,4,21,10,0,5,2,55
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,5883,12,6,11,25,1,30,14,5
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,12819,24,6,23,5,4,25,29,20
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,3,6,9,40,12,35,26,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,8505,1,4,20,20,10,45,14,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,1,6,9,40,19,0,9,20
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,6327,9,6,19,0,11,5,16,5
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,5694,24,3,23,30,2,20,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13626,12,6,14,5,23,35,9,30
+GoAir,Delhi,Cochin,DEL → AMD → COK,1 stop,No info,4201,6,4,7,25,13,35,6,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,20,55,19,0,22,5
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,13067,6,5,17,0,19,10,26,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17057,3,3,7,5,21,0,13,55
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,13243,12,5,7,0,1,20,18,20
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,21,5,23,5,19,0,19,55
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,5201,27,6,18,5,21,10,3,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4462,18,3,5,30,8,20,2,50
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6147,27,6,15,10,20,0,4,50
+Vistara Premium economy,Banglore,Delhi,BLR → DEL,non-stop,No info,5969,6,4,11,30,14,20,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,9,6,6,30,23,35,17,5
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,4441,9,4,5,45,8,45,3,0
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,12284,18,3,11,40,18,25,6,45
+Air Asia,Kolkata,Banglore,CCU → BBI → BLR,1 stop,No info,5162,21,5,6,50,10,30,3,40
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,5601,9,6,14,20,17,35,3,15
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,6,6,9,35,21,5,11,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,12284,18,3,5,45,16,10,10,25
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,3,6,40,16,10,9,30
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,6117,6,6,19,0,11,5,16,5
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,24,5,9,45,9,25,23,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,15,6,19,35,21,5,1,30
+Jet Airways,Banglore,New Delhi,BLR → DEL,non-stop,No info,8016,24,3,19,55,22,35,2,40
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6818,12,6,5,5,16,10,11,5
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,4729,18,3,18,5,21,10,3,5
+Air India,Kolkata,Banglore,CCU → GAU → DEL → BLR,2 stops,No info,14960,15,5,16,45,12,30,19,45
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3332,21,3,17,45,20,5,2,20
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,21,5,19,30,20,45,1,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,11848,9,3,0,20,4,25,28,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,9,5,16,30,10,5,17,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15147,6,3,8,55,15,30,6,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8055,27,3,8,55,21,0,12,5
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,3,4,2,35,4,5,1,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,21,4,4,0,6,50,2,50
+Jet Airways,Delhi,Cochin,DEL → ATQ → BOM → COK,2 stops,No info,14300,12,6,8,10,12,35,28,25
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,9871,9,5,8,0,19,15,11,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6305,27,3,4,0,13,20,9,20
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,24,6,13,15,14,45,1,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6206,27,3,11,30,1,35,14,5
+Vistara,Chennai,Kolkata,MAA → CCU,non-stop,No info,3687,6,5,7,5,9,20,2,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7618,27,5,8,0,21,0,13,0
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,18,5,23,5,19,0,19,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,9,5,14,5,12,0,21,55
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,6015,18,5,14,25,17,40,3,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6896,21,5,15,0,1,30,10,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,3,6,10,0,19,0,9,0
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,21,6,21,25,0,5,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,5,16,30,4,40,12,10
+IndiGo,Kolkata,Banglore,CCU → PAT → BLR,1 stop,No info,8443,1,5,9,20,14,15,4,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,2,15,4,25,26,10
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,21,4,21,5,23,55,2,50
+GoAir,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,5628,3,3,5,45,13,20,7,35
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,6,6,21,25,0,5,2,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,21,5,23,5,12,35,13,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14924,3,6,7,5,12,35,5,30
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,5022,3,4,20,30,23,0,26,30
+Air India,Banglore,New Delhi,BLR → HYD → VGA → DEL,2 stops,No info,11474,12,3,6,50,22,55,16,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,15,5,14,25,16,55,2,30
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8907,1,6,9,45,23,0,13,15
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6151,27,3,7,55,13,10,5,15
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,18,6,7,5,8,30,1,25
+Air India,Delhi,Cochin,DEL → COK,non-stop,No info,6094,18,4,14,10,17,10,3,0
+Air India,Kolkata,Banglore,CCU → JAI → BOM → BLR,2 stops,No info,10697,6,6,8,20,21,50,13,30
+Air India,Kolkata,Banglore,CCU → BOM → GOI → BLR,2 stops,No info,11432,9,6,9,25,5,35,20,10
+Air India,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,13748,6,3,5,55,19,15,13,20
+Air Asia,Kolkata,Banglore,CCU → BLR,non-stop,No info,4107,21,5,22,50,1,20,2,30
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,24,5,17,0,23,35,6,35
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3175,9,6,16,55,18,25,1,30
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,24,6,5,30,19,0,13,30
+Jet Airways,Delhi,Cochin,DEL → COK,non-stop,In-flight meal not included,7202,3,6,11,0,14,15,3,15
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,3,3,7,30,21,0,13,30
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,In-flight meal not included,5883,27,3,14,35,22,20,7,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,14,5,20,45,6,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,6,20,0,18,15,22,15
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,15,5,14,45,17,5,2,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,22,55,7,40,8,45
+IndiGo,Delhi,Cochin,DEL → BBI → COK,1 stop,No info,13790,6,3,2,35,8,30,5,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,18,5,20,25,19,10,22,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,9,6,14,0,19,0,5,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7927,1,4,7,10,18,50,11,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,18,5,6,0,8,45,2,45
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,5769,3,6,7,10,10,10,3,0
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7893,1,4,20,30,8,55,12,25
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No info,6309,24,3,9,35,12,30,2,55
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,6795,3,3,16,55,18,25,1,30
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10413,9,6,17,30,20,25,26,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,11467,1,5,20,25,9,45,13,20
+Air India,Banglore,New Delhi,BLR → CCU → GAU → DEL,2 stops,No info,11161,18,3,11,5,22,10,35,5
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6853,15,6,16,45,7,10,14,25
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,9,5,23,5,19,0,19,55
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,18,3,21,20,22,45,1,25
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,27,6,21,20,22,50,1,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5797,24,6,10,20,1,30,15,10
+Air India,Mumbai,Hyderabad,BOM → RPR → VTZ → HYD,2 stops,No info,9736,12,3,10,5,19,10,9,5
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,27,4,22,15,0,50,2,35
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4282,6,6,4,55,7,45,2,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15058,3,6,8,0,19,15,11,15
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,11399,18,5,10,0,19,0,9,0
+Air India,Kolkata,Banglore,CCU → BOM → AMD → BLR,2 stops,No info,14687,1,5,9,25,5,25,20,0
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3919,18,5,21,10,0,5,2,55
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,21,5,21,10,22,35,25,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,16,30,12,0,19,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,21,25,15,15,17,50
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,4377,9,3,22,20,1,10,2,50
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,4227,1,4,19,0,4,40,9,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,8834,21,3,19,10,4,25,33,15
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,15,6,14,35,4,25,13,50
+Air India,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10808,24,3,20,30,23,15,26,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,24,6,19,45,4,25,8,40
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,1,5,13,15,15,35,2,20
+Jet Airways,Delhi,Cochin,DEL → LKO → BOM → COK,2 stops,No info,13882,15,6,9,25,12,35,27,10
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2754,12,5,12,0,13,30,1,30
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10493,15,5,5,0,19,15,38,15
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,12,5,23,55,2,45,2,50
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,6015,15,4,14,25,17,40,3,15
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,6245,1,4,14,15,16,45,2,30
+Jet Airways,Kolkata,Banglore,CCU → GAU → BLR,1 stop,No info,9358,12,5,10,20,17,35,7,15
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,12475,1,3,12,0,13,25,1,25
+Air India,Banglore,New Delhi,BLR → BOM → BHO → DEL,2 stops,No info,11518,18,3,17,25,23,25,30,0
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,12,5,6,5,8,50,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,1,6,21,50,4,25,6,35
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6979,15,5,4,55,21,0,16,5
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No check-in baggage included,3257,27,5,21,10,0,5,2,55
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,27,4,23,30,2,20,2,50
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,8040,21,3,7,10,8,35,1,25
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,12,5,14,5,23,35,9,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,21,5,19,50,22,50,3,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13731,24,5,18,55,4,40,9,45
+Air India,Delhi,Cochin,DEL → HYD → BOM → COK,2 stops,No info,8770,21,3,17,15,19,15,26,0
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,3100,9,6,21,5,22,25,1,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6795,1,6,10,20,1,30,15,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,21,5,6,30,8,15,25,45
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,7174,27,6,17,40,23,0,5,20
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,11200,27,3,11,30,18,50,7,20
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,12,6,8,35,22,30,13,55
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,3210,12,6,19,35,21,5,1,30
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,24,5,19,35,21,5,1,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3847,18,3,22,20,0,40,2,20
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,8855,3,3,18,55,21,45,2,50
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,20,0,18,15,22,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,18286,3,3,11,30,1,35,14,5
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,13941,12,5,8,25,4,40,20,15
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,10875,1,3,10,20,11,50,1,30
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,15,4,18,25,21,20,2,55
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,3873,18,6,17,10,19,40,2,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12853,9,4,9,0,19,15,10,15
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,15,6,6,0,8,45,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,6,6,7,5,4,25,21,20
+Air India,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,8576,9,5,16,50,18,30,25,40
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,8851,9,3,13,20,16,10,2,50
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,27,6,4,40,7,15,2,35
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,5510,15,5,14,15,16,45,2,30
+Air India,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,7174,9,5,9,45,23,0,13,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14571,24,5,6,30,19,50,13,20
+SpiceJet,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,4649,1,5,15,5,20,20,5,15
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,9653,15,6,19,45,19,15,23,30
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8147,9,3,5,5,10,5,5,0
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,6245,1,5,14,15,16,45,2,30
+Vistara,Delhi,Cochin,DEL → COK,non-stop,No info,6741,18,4,6,0,9,10,3,10
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14178,24,5,16,30,9,20,16,50
+Air India,Banglore,New Delhi,BLR → DEL,non-stop,No info,19508,3,3,17,0,19,45,2,45
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,19,45,4,25,8,40
+Jet Airways,Delhi,Cochin,DEL → IDR → BOM → COK,2 stops,No info,13292,15,6,5,30,4,25,22,55
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,8327,9,3,16,45,7,10,14,25
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,6,5,17,0,19,35,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,6,6,8,25,19,50,11,25
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,13502,6,3,14,5,0,45,10,40
+Air India,Kolkata,Banglore,CCU → BBI → BOM → BLR,2 stops,No info,10676,12,5,12,0,7,55,19,55
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,27,5,9,45,12,0,2,15
+Air India,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,10283,3,3,5,0,19,15,38,15
+Air India,Delhi,Cochin,DEL → RPR → NAG → BOM → COK,3 stops,No info,10703,1,6,5,15,19,15,38,0
+Jet Airways,Delhi,Cochin,DEL → MAA → BOM → COK,2 stops,In-flight meal not included,8098,27,3,17,35,19,45,26,10
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6938,3,6,14,20,22,30,8,10
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4174,18,4,22,20,0,40,2,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,14815,6,3,8,0,7,40,23,40
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,13029,18,5,5,30,4,25,22,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,5224,6,5,11,30,14,5,2,35
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,9,5,23,5,12,35,13,30
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,18,3,11,40,9,0,21,20
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,27,3,21,20,22,45,1,25
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,No info,13014,9,6,19,30,4,25,8,55
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,10877,12,6,8,50,19,0,10,10
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7888,21,5,18,0,1,30,7,30
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,23170,1,3,0,20,15,30,15,10
+Air India,Kolkata,Banglore,CCU → DEL → COK → BLR,2 stops,No info,12224,12,6,10,0,13,45,27,45
+Jet Airways,Delhi,Cochin,DEL → NAG → BOM → COK,2 stops,No info,13376,15,6,6,45,4,25,21,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,3,3,7,10,8,35,1,25
+IndiGo,Kolkata,Banglore,CCU → PAT → BLR,1 stop,No info,12198,18,5,9,20,14,15,4,55
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2050,3,4,21,5,22,25,1,20
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10031,24,3,8,25,23,25,15,0
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,18,5,17,15,19,50,2,35
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,9134,15,3,8,0,7,40,23,40
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,24,6,17,45,20,45,3,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14848,3,6,11,30,19,15,7,45
+Air India,Kolkata,Banglore,CCU → BLR,non-stop,No info,4880,18,5,20,45,23,20,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,7,5,12,35,5,30
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14871,3,3,17,30,1,35,8,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9424,9,5,19,0,1,30,6,30
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,3,4,18,55,22,0,3,5
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No check-in baggage included,3543,21,6,9,45,12,0,2,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,15,5,18,55,10,5,15,10
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,1 Long layover,25735,1,3,16,55,9,0,16,5
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3540,21,6,5,15,7,40,2,25
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5613,6,4,7,0,9,40,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8586,24,5,18,55,8,15,13,20
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6147,12,6,17,5,22,25,5,20
+Air India,Banglore,New Delhi,BLR → BBI → DEL,1 stop,No info,8714,15,3,9,30,16,20,6,50
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13587,6,6,8,0,21,0,13,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15135,6,3,8,25,18,50,10,25
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6938,27,5,16,10,22,30,6,20
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,4823,6,6,18,25,21,20,2,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,12,6,19,45,4,25,8,40
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,21,6,2,55,4,20,1,25
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,10953,9,5,17,0,10,55,17,55
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,24,6,22,15,0,50,2,35
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,15,5,18,55,18,15,23,20
+IndiGo,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6496,12,6,5,10,10,5,4,55
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12242,27,3,11,30,4,25,16,55
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,12,6,7,35,22,30,14,55
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3858,21,3,11,35,14,0,2,25
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,5117,27,3,20,40,9,25,12,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,6,30,16,20,9,50
+Air India,Chennai,Kolkata,MAA → CCU,non-stop,No info,4405,24,3,11,40,13,55,2,15
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6600,27,5,5,5,16,10,11,5
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,7229,15,6,15,15,18,10,2,55
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,9870,24,5,17,0,23,25,6,25
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,3850,27,6,7,55,10,15,2,20
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,In-flight meal not included,11087,12,3,20,35,9,30,12,55
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,5403,15,4,9,45,12,35,2,50
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,3,5,8,20,10,35,2,15
+Air India,Delhi,Cochin,DEL → MAA → COK,1 stop,No info,7480,27,5,6,5,9,25,27,20
+Air India,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,11185,3,3,19,30,20,45,1,15
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,2759,24,3,10,20,11,50,1,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,18,5,14,5,19,50,5,45
+IndiGo,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,6838,3,6,9,15,21,0,11,45
+IndiGo,Banglore,New Delhi,BLR → DEL,non-stop,No info,6860,3,3,8,30,11,30,3,0
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,1,6,19,15,4,25,9,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14714,6,6,19,15,4,25,9,10
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4030,15,5,18,55,22,0,3,5
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,In-flight meal not included,11150,27,6,23,5,4,25,29,20
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,4544,6,4,18,55,22,0,3,5
+SpiceJet,Chennai,Kolkata,MAA → CCU,non-stop,No info,3597,1,5,8,20,10,35,2,15
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,24,3,20,5,21,35,1,30
+IndiGo,Chennai,Kolkata,MAA → CCU,non-stop,No info,5277,3,3,22,5,0,25,2,20
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6818,15,6,5,5,16,10,11,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,9794,15,5,6,0,19,0,13,0
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,7229,18,4,11,10,14,5,2,55
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,6752,15,5,16,45,22,25,5,40
+Jet Airways,Delhi,Cochin,DEL → AMD → BOM → COK,2 stops,No info,15129,27,5,19,10,19,0,23,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,16079,21,5,13,0,19,0,6,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8529,12,6,20,0,9,20,13,20
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8879,3,6,7,0,19,15,12,15
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,17493,3,3,13,0,21,0,8,0
+Air India,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,8792,1,6,19,0,19,15,24,15
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,18,5,8,25,20,45,12,20
+SpiceJet,Banglore,New Delhi,BLR → DEL,non-stop,No check-in baggage included,4839,21,3,9,35,12,30,2,55
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,In-flight meal not included,7563,6,3,7,10,22,20,15,10
+Air India,Banglore,New Delhi,BLR → CCU → DEL,1 stop,No info,10657,9,3,11,5,22,45,11,40
+Multiple carriers,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,7038,21,5,7,10,18,10,11,0
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6938,27,3,14,20,22,20,8,0
+Vistara,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,7927,1,4,20,20,18,50,22,30
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No check-in baggage included,3841,3,4,6,55,9,30,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,1,6,14,0,4,25,14,25
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,10262,9,6,2,15,19,0,16,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,9,6,21,10,22,35,25,25
+IndiGo,Kolkata,Banglore,CCU → BLR,non-stop,No info,4804,12,6,4,40,7,15,2,35
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,14924,9,6,20,55,4,25,7,30
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,3625,18,5,5,55,8,35,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14388,6,5,20,0,8,15,12,15
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,5678,18,6,2,55,4,20,1,25
+IndiGo,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2227,12,5,21,20,22,50,1,30
+SpiceJet,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,4957,24,4,17,55,22,50,4,55
+Jet Airways,Delhi,Cochin,DEL → BHO → BOM → COK,2 stops,No info,14441,12,6,5,30,12,35,7,5
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,18,3,7,10,8,35,1,25
+SpiceJet,Mumbai,Hyderabad,BOM → HYD,non-stop,No info,2017,1,5,5,45,7,15,1,30
+Air India,Kolkata,Banglore,CCU → HYD → BLR,1 stop,No info,6117,6,5,19,0,9,50,14,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5963,27,3,9,0,18,50,9,50
+Jet Airways,Banglore,New Delhi,BLR → BOM → DEL,1 stop,No info,13817,12,3,22,55,7,40,8,45
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,21,5,9,35,23,35,14,0
+IndiGo,Kolkata,Banglore,CCU → MAA → BLR,1 stop,No info,5699,1,4,17,35,22,15,4,40
+Air Asia,Banglore,Delhi,BLR → DEL,non-stop,No info,4483,1,6,11,10,13,55,2,45
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,10844,24,5,18,55,18,15,23,20
+IndiGo,Delhi,Cochin,DEL → COK,non-stop,No info,4729,27,3,14,30,17,35,3,5
+Jet Airways,Delhi,Cochin,DEL → JAI → BOM → COK,2 stops,In-flight meal not included,10368,15,6,9,40,12,35,26,55
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,In-flight meal not included,6478,24,6,19,50,22,50,3,0
+Air India,Banglore,New Delhi,BLR → CCU → DEL,1 stop,No info,13439,1,3,11,5,9,15,22,10
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,5177,3,4,14,0,19,0,5,0
+Vistara,Banglore,Delhi,BLR → DEL,non-stop,No info,4878,21,5,17,0,19,35,2,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,12524,24,6,8,45,19,0,10,15
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,18,5,10,30,13,20,2,50
+Air India,Mumbai,Hyderabad,BOM → MAA → HYD,1 stop,No info,6901,12,3,5,55,20,35,14,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,No info,14781,12,5,16,30,23,35,7,5
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,13587,15,6,14,0,21,0,7,0
+Jet Airways,Kolkata,Banglore,CCU → BOM → PNQ → BLR,2 stops,In-flight meal not included,10118,21,5,6,30,7,25,24,55
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,6961,18,6,10,0,12,45,2,45
+Jet Airways,Mumbai,Hyderabad,BOM → HYD,non-stop,In-flight meal not included,4995,21,6,8,45,10,15,1,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,12898,27,5,10,0,12,35,26,35
+SpiceJet,Banglore,Delhi,BLR → DEL,non-stop,No info,4423,6,4,5,55,8,35,2,40
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4465,18,3,6,55,9,35,2,40
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,9663,1,5,6,30,9,20,26,50
+Jet Airways,Banglore,Delhi,BLR → DEL,non-stop,No info,8016,15,6,17,45,20,45,3,0
+Air India,Banglore,Delhi,BLR → DEL,non-stop,No info,5228,12,6,21,5,23,55,2,50
+IndiGo,Banglore,Delhi,BLR → DEL,non-stop,No info,3943,6,5,13,0,15,50,2,50
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,15764,6,3,13,55,4,25,14,30
+Jet Airways,Delhi,Cochin,DEL → BOM → COK,1 stop,In-flight meal not included,9732,27,5,11,30,19,0,7,30
+IndiGo,Delhi,Cochin,DEL → HYD → COK,1 stop,No info,6442,27,6,8,35,22,30,13,55
+Air India,Banglore,New Delhi,BLR → TRV → COK → DEL,2 stops,No info,11602,12,3,7,30,11,5,27,35
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,15,6,8,0,21,0,13,0
+Multiple carriers,Delhi,Cochin,DEL → BOM → COK,1 stop,No info,7408,27,6,8,0,21,0,13,0
+SpiceJet,Kolkata,Banglore,CCU → BLR,non-stop,No info,4622,6,3,17,15,19,45,2,30
+Air Asia,Delhi,Cochin,DEL → BLR → COK,1 stop,No info,7452,21,4,7,55,22,25,14,30
+Jet Airways,Kolkata,Banglore,CCU → BOM → BLR,1 stop,In-flight meal not included,8824,24,3,6,30,23,25,16,55
+Jet Airways,Kolkata,Banglore,CCU → DEL → BLR,1 stop,No info,14151,6,6,17,0,23,35,6,35

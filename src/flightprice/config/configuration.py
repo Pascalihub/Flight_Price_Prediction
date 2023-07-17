@@ -1,6 +1,7 @@
 from src.flightprice.constants import *
 from src.flightprice.utils.common import read_yaml, create_directories
 from src.flightprice.entity import (DataIngestionConfig,
+                                    DataValidationConfig,
                                     DataTransformationConfig)
 
 
@@ -23,14 +24,28 @@ class ConfigurationManager:
         create_directories([config.root_dir])
 
         data_ingestion_config = DataIngestionConfig(
-            root_dir=config.root_dir,
-            source_URL=config.source_URL,
-            local_data_file=config.local_data_file,
-            unzip_dir=config.unzip_dir 
-        )
+        root_dir=config.root_dir,
+        source_URL=config.source_URL,
+        local_data_file=config.local_data_file,
+        unzip_dir=config.unzip_dir
+        
+    )
 
         return data_ingestion_config
+ 
     
+    def get_data_validation_config(self) -> DataValidationConfig:
+        config = self.config.data_validation
+
+        create_directories([config.root_dir])
+
+        data_validation_config = DataValidationConfig(
+            root_dir=config.root_dir,
+            STATUS_FILE=config.STATUS_FILE,
+            ALL_REQUIRED_FILES=config.ALL_REQUIRED_FILES,
+        )
+
+        return data_validation_config
     
     def get_data_transformation_config(self) -> DataTransformationConfig:
         config = self.config.data_transformation
@@ -39,8 +54,8 @@ class ConfigurationManager:
 
         data_transformation_config = DataTransformationConfig(
             root_dir=config.root_dir,
-            data_train_path=config.data_train_path,
-            preprocessor_path=config.preprocessor_path
+            data_path=config.data_path,
+            preprocessor_path = config.preprocessor_path
         )
 
         return data_transformation_config
