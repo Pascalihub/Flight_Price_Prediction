@@ -16,7 +16,7 @@ from xgboost import XGBRegressor
 from src.flightprice.logger import logging
 from src.flightprice.utils.common import evaluate_models
 from src.flightprice.components.data_transformation import DataTransformation
-from src.flightprice.components.model_trainer import ModelTrainerConfig
+from src.flightprice.entity import ModelTrainerConfig
 import pickle
 
 

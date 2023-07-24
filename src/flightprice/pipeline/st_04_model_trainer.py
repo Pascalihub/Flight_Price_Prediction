@@ -5,7 +5,7 @@ from src.flightprice.components.model_trainer import ModelTrainer
 from src.flightprice.logger import logging
 
 
-class DataTransformationTrainingPipeline:
+class ModelTrainerTrainingPipeline:
     def __init__(self):
         pass
 
