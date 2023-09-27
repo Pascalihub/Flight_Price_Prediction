@@ -2,12 +2,13 @@ import os
 import sys
 import logging
 
-logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
+## logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
+logging_str =logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', encoding='utf-8')
 log_dir = "logs"
 log_filepath = os.path.join(log_dir,"running_logs.log")
 os.makedirs(log_dir, exist_ok=True)
 
-
+logging.basicConfig(encoding='utf-8')
 
 logging.basicConfig(
     level= logging.INFO,
@@ -20,3 +21,4 @@ logging.basicConfig(
 )
 
 logging = logging.getLogger("flightprice")
+

@@ -34,6 +34,7 @@ class ConfigurationManager:
 
         return data_ingestion_config
  
+ 
     
     def get_data_validation_config(self) -> DataValidationConfig:
         config = self.config.data_validation
@@ -71,6 +72,6 @@ class ConfigurationManager:
         root_dir=config.root_dir,
         data_path=config.data_path,
         model_path=config.model_path
+        ## model_file_path=config.model_file_path
     )
-
         return model_trainer_config

@@ -1,4 +1,3 @@
-
 import os
 import urllib.request as request
 import zipfile
@@ -67,4 +66,8 @@ class DataIngestion:
         logging.info("Ingestion of the data is completed")
 
         return train_data_path, test_data_path
+
+
+
+
 
